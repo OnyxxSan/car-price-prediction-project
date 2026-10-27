@@ -7,7 +7,11 @@ if str(SRC_PATH) not in sys.path:
     sys.path.insert(0, str(SRC_PATH))
 
 import streamlit as st
-from predict import predict_price
+
+try:
+    from src.predict import predict_price
+except ImportError:
+    from predict import predict_price
 
 st.set_page_config(page_title='Used Car Price Predictor', page_icon='🚗', layout='centered')
 

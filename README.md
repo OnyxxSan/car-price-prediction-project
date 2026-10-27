@@ -63,14 +63,45 @@ The project currently uses the provided used car dataset (`used_cars.csv`), whic
 
 ## Workflow
 
-1. Load and clean the dataset
-2. Engineer useful features such as vehicle age
-3. Encode categorical variables
-4. Split into training and test sets
-5. Train several regression models
-6. Compare model performance
-7. Save the best model
-8. Deploy a small prediction app
+The full project workflow is designed to mirror a practical data science pipeline:
+
+1. Data acquisition
+   - Load the raw dataset from `used_cars.csv`
+   - Confirm schema and inspect key columns
+
+2. Data cleaning
+   - Standardize column names
+   - Convert price and mileage into numeric values
+   - Remove invalid or empty values
+   - Handle obvious formatting issues in raw listing text
+
+3. Feature engineering
+   - Create vehicle age from `model_year`
+   - Keep a minimal set of highly informative variables
+   - Prepare categorical variables for modeling
+
+4. Train/test split
+   - Separate the data into training and test sets
+   - Use the test set for unbiased evaluation
+
+5. Model building
+   - Train a baseline regressor
+   - Compare multiple regression models
+   - Save the best-performing model artifact
+
+6. Evaluation
+   - Measure MAE, RMSE, and R²
+   - Check if predictions are reliable and interpretable
+   - Identify where the model may underperform
+
+7. Deployment / usage
+   - Build a simple Streamlit app to make predictions from user input
+   - Make the project easy to demo in interviews or portfolio reviews
+
+8. Documentation and presentation
+   - Explain the business problem clearly
+   - Summarize findings and model performance
+   - Show how the project could be extended in future work
 
 ## Models to compare
 
