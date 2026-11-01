@@ -4,13 +4,13 @@ A portfolio-ready machine learning project that predicts used car prices using v
 
 ## Overview
 
-This project applies a complete data science workflow to a real-world business problem: estimating the fair market value of a used car. Buyers and sellers often struggle with inconsistent pricing across listings, and this project demonstrates how a machine learning model can make that process more transparent, faster, and more data-driven.
+This project applies a complete data science workflow to a real-world business problem: estimating the fair market value of a used car. Buyers and sellers often struggle with inconsistent pricing across listings, so this project creates a practical pricing estimator based on historical data.
 
 The app is built with Python and Streamlit, allowing users to enter car details and receive an estimated market price in seconds.
 
 ## Problem and Why It Matters
 
-Used car prices are influenced by a mix of factors, including age, mileage, condition, fuel efficiency, transmission type, and accident history. These details vary from listing to listing, which makes pricing difficult to judge manually.
+Used car prices are influenced by a mix of factors, including age, mileage, condition, fuel efficiency, transmission type, and accident history. These details vary from listing to listing, which makes pricing difficult without a consistent model.
 
 This project helps solve that challenge by building a predictive model that estimates car value based on real listing data. It is useful for:
 
@@ -95,7 +95,7 @@ The model comparison results on this dataset are:
 | Random Forest Regressor | 3360.20 | 4134.82 | 0.9020 |
 | Gradient Boosting Regressor | 2823.97 | 3459.01 | 0.9314 |
 
-The best-performing model on this dataset was Linear Regression, with an R² of 0.9435. This means the model explains approximately 94.35% of the variation in used car prices based on the available features.
+The best-performing model on this dataset was Linear Regression, with an R² of 0.9435. This means the model explains approximately 94.35% of the variation in used car prices based on the available feature set.
 
 ## Tools and Libraries
 
@@ -196,17 +196,23 @@ streamlit run app/streamlit_app.py
 
 The app opens a user-friendly interface where you can enter vehicle details and receive an estimated price.
 
+## Streamlit App Screenshot
+
+Save the app screenshot as `app/screenshots/streamlit_app.png` in the repo and it will display here:
+
+![Streamlit app screenshot](app/screenshots/streamlit_app.png)
+
 ## Resume-Friendly Description
 
-Developed a machine learning project to predict used car prices using vehicle attributes such as mileage, age, fuel type, transmission, and accident history. Built a clean data preprocessing pipeline, compared multiple regression models, selected the best-performing model, and deployed a Streamlit application for interactive price prediction.
+Developed a machine learning project to predict used car prices using vehicle attributes such as mileage, age, fuel type, transmission, and accident history. Built a clean data preprocessing pipeline, compared multiple regression models, and packaged the final model into an interactive Streamlit app for user-friendly price estimation.
 
 ## Interview-Friendly Description
 
-This project shows my end-to-end data science workflow: cleaning and preparing real-world automotive data, training multiple regression models, comparing their performance, and selecting the strongest model for prediction. I also created a user-facing Streamlit app to make the results practical and easy to demo.
+This project shows my end-to-end data science workflow: cleaning and preparing real-world automotive data, training multiple regression models, comparing their performance, and selecting the strongest approach for a business use case. I also created a Streamlit interface so the model can be used interactively by non-technical users.
 
 ## Conclusion
 
-This project combines machine learning, practical data cleaning, and application development in a single portfolio-ready workflow. It is designed to be easy to understand for recruiters, internship reviewers, and technical interviewers while still demonstrating meaningful data science skills.
+This project combines machine learning, practical data cleaning, and application development in a single portfolio-ready workflow. It is designed to be easy to understand for recruiters, internship reviewers, and hiring managers.
 
 ## Notes
 
