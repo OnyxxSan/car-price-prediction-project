@@ -1,0 +1,1801 @@
+make,model,year,mileage,fuel_type,transmission,engine_size,body_type,seats,price
+Toyota,Corolla,2012,187624,Petrol,Automatic,2.8,SUV,4,1999.6
+Volkswagen,Passat,2016,152147,Petrol,Manual,3.0,Sedan,4,3994.8
+Audi,A4,2006,148768,Diesel,Manual,1.6,Sedan,5,3900.81
+BMW,5 Series,2016,118137,Petrol,Manual,1.6,Coupe,4,14894.6
+BMW,3 Series,2023,7401,Electric,Manual,1.4,Hatchback,4,47865.35
+Volkswagen,Golf,2005,86554,Petrol,Automatic,2.0,SUV,5,11244.64
+Toyota,Corolla,2010,161258,Petrol,Manual,2.0,SUV,4,-1334.47
+Audi,A4,2018,179080,Petrol,Manual,1.4,Sedan,5,5686.14
+Honda,Civic,2016,123985,Petrol,Manual,2.4,Sedan,4,11623.69
+Toyota,RAV4,2017,156683,Petrol,Automatic,1.4,Hatchback,5,4707.17
+Mercedes,C Class,2015,6740,Diesel,Manual,2.8,SUV,4,35251.44
+Nissan,Juke,2018,104112,Petrol,Automatic,2.4,Hatchback,4,11715.65
+Audi,Q5,2016,112684,Diesel,Manual,2.8,Hatchback,5,22746.02
+Volkswagen,Passat,2004,196561,Hybrid,Manual,1.4,Hatchback,4,-19800.01
+Audi,Q7,2019,69809,Diesel,Automatic,3.0,Hatchback,4,34358.26
+Volkswagen,Golf,2012,52128,Diesel,Manual,2.0,Sedan,4,20777.61
+Mercedes,C Class,2004,78818,Petrol,Manual,3.0,Hatchback,4,12390.35
+Honda,Accord,2011,39145,Petrol,Automatic,2.4,Hatchback,4,14869.16
+Volkswagen,Golf,2012,123736,Petrol,Manual,2.4,Sedan,4,3207.0
+BMW,5 Series,2004,142131,Electric,Manual,1.4,Sedan,5,10366.07
+Mercedes,E Class,2024,176644,Diesel,Manual,2.4,Sedan,4,13341.59
+Ford,Explorer,2007,213894,Petrol,Manual,2.0,Sedan,4,-20442.54
+Honda,Accord,2010,18045,Diesel,Automatic,2.8,SUV,4,27759.64
+Nissan,Qashqai,2012,55901,Hybrid,Manual,2.4,Sedan,2,23725.13
+Volkswagen,Polo,2021,67555,Diesel,Automatic,1.4,Hatchback,4,22662.77
+Audi,Q7,2019,56428,Diesel,Manual,3.0,Sedan,7,31140.06
+BMW,3 Series,2019,182347,Hybrid,Automatic,1.4,Sedan,5,14400.66
+Volkswagen,Polo,2008,32410,Diesel,Automatic,1.8,Sedan,2,21720.58
+Mercedes,GLC,2021,8482,Diesel,Automatic,1.6,Sedan,5,40931.51
+BMW,X3,2021,189602,Petrol,Manual,3.0,Coupe,4,6956.17
+BMW,5 Series,2013,211611,Petrol,Manual,1.6,Sedan,4,-2583.84
+Honda,Fit,2015,51354,Electric,Manual,2.8,Sedan,5,28710.0
+Toyota,Prius,2003,74562,Diesel,Automatic,1.6,Sedan,4,3621.84
+Mercedes,C Class,2019,111692,Petrol,Manual,2.4,SUV,4,18589.47
+Nissan,Sentra,2024,116656,Diesel,Automatic,1.4,Hatchback,5,13430.6
+Toyota,Corolla,2013,218010,Petrol,Manual,1.8,Hatchback,4,-16808.15
+Volkswagen,Polo,2014,90105,Hybrid,Automatic,2.4,SUV,4,15033.65
+Volkswagen,Passat,2013,4646,Petrol,Manual,2.4,Hatchback,4,22845.3
+Ford,Focus,2004,94161,Hybrid,Automatic,3.0,SUV,5,9909.96
+Audi,Q5,2016,123313,Diesel,Manual,2.8,Hatchback,5,14923.08
+Honda,Accord,2018,114681,Petrol,Manual,2.0,SUV,7,20174.73
+Volkswagen,Golf,2023,113679,Petrol,Automatic,1.8,Sedan,4,16483.88
+Audi,Q7,2023,203130,Hybrid,Automatic,1.6,Hatchback,5,8300.36
+Ford,Explorer,2013,178023,Petrol,Automatic,3.0,Hatchback,4,-14.52
+Toyota,Prius,2024,56872,Petrol,Automatic,2.4,SUV,4,33303.62
+Nissan,Juke,2014,79451,Hybrid,Manual,3.0,Coupe,2,22279.31
+BMW,5 Series,2017,147532,Petrol,Automatic,2.0,Coupe,5,15342.21
+Nissan,Juke,2016,91454,Petrol,Manual,2.0,Sedan,4,13130.56
+Audi,Q5,2024,95391,Petrol,Manual,2.8,Hatchback,4,35482.31
+Volkswagen,Golf,2019,38610,Hybrid,Manual,2.8,Hatchback,4,33265.8
+Volkswagen,Golf,2005,57452,Petrol,Manual,1.6,SUV,2,7197.13
+Honda,Accord,2004,163497,Petrol,Manual,2.0,SUV,7,-5444.75
+Ford,Fiesta,2012,185758,Petrol,Automatic,1.6,Coupe,5,-7670.0
+BMW,3 Series,2014,173066,Petrol,Manual,2.8,Hatchback,4,5576.12
+BMW,3 Series,2017,69107,Petrol,Automatic,1.4,SUV,5,23360.14
+Toyota,RAV4,2013,31792,Petrol,Manual,2.8,Sedan,4,21132.55
+Mercedes,E Class,2014,36813,Petrol,Manual,3.0,SUV,5,36374.16
+Honda,CR-V,2023,87773,Petrol,Manual,1.4,Coupe,4,23893.4
+Audi,Q5,2010,114870,Hybrid,Manual,2.4,Hatchback,4,14431.86
+Audi,Q5,2013,196653,Petrol,Manual,1.4,Sedan,4,-1964.36
+Nissan,Juke,2015,197944,Petrol,Automatic,1.8,Coupe,4,-2533.7
+Audi,A4,2013,2590,Hybrid,Manual,1.8,Hatchback,4,34485.79
+Ford,Explorer,2024,156248,Hybrid,Manual,2.0,SUV,4,12463.54
+Nissan,Sentra,2024,67129,Diesel,Automatic,3.0,Sedan,7,34718.39
+BMW,X3,2014,45120,Petrol,Manual,2.0,SUV,2,31458.01
+Ford,Fiesta,2012,122999,Petrol,Automatic,1.8,Sedan,2,4158.21
+Nissan,Altima,2015,9393,Petrol,Automatic,1.4,Sedan,4,26835.1
+Ford,Explorer,2006,74832,Petrol,Manual,3.0,Hatchback,4,13322.74
+Toyota,Corolla,2012,122384,Petrol,Manual,1.8,Coupe,4,6205.53
+BMW,X3,2007,61305,Diesel,Manual,2.0,SUV,4,21407.29
+Volkswagen,Golf,2006,131359,Petrol,Manual,1.4,Coupe,5,-1195.1
+Honda,Civic,2005,102288,Diesel,Manual,1.8,Coupe,4,4575.18
+BMW,X5,2015,176270,Petrol,Automatic,2.0,Sedan,7,3446.31
+Honda,Fit,2003,41572,Petrol,Manual,3.0,Sedan,4,15226.53
+Audi,A4,2017,14448,Hybrid,Automatic,1.8,Hatchback,4,37675.34
+BMW,3 Series,2012,117458,Hybrid,Manual,2.0,Hatchback,4,19352.76
+Ford,Focus,2011,58003,Petrol,Manual,3.0,SUV,5,22282.5
+Honda,Fit,2019,156059,Diesel,Manual,1.8,Hatchback,5,3303.84
+Mercedes,GLC,2014,22336,Petrol,Manual,1.8,Hatchback,4,32612.51
+Audi,A3,2019,127414,Petrol,Automatic,1.4,Hatchback,4,15550.65
+Nissan,Sentra,2018,217783,Diesel,Manual,3.0,Hatchback,4,-210.78
+BMW,5 Series,2003,22297,Petrol,Manual,1.4,Sedan,2,16108.29
+Honda,Civic,2007,67796,Petrol,Manual,1.6,Sedan,7,9900.48
+Volkswagen,Polo,2015,186081,Diesel,Manual,1.4,Sedan,4,-5011.68
+Audi,Q5,2024,118317,Petrol,Automatic,2.4,Coupe,4,26690.07
+Audi,A3,2006,40145,Petrol,Automatic,1.8,Coupe,7,20341.26
+Toyota,Prius,2005,48462,Petrol,Automatic,2.4,Hatchback,5,16719.76
+Ford,Fiesta,2023,168729,Electric,Manual,2.4,Sedan,5,13366.27
+Volkswagen,Golf,2024,189675,Diesel,Manual,1.4,SUV,4,9671.22
+Volkswagen,Passat,2006,80603,Petrol,Automatic,1.8,Sedan,4,7959.38
+BMW,3 Series,2011,105295,Petrol,Manual,1.4,SUV,4,11929.01
+Volkswagen,Golf,2016,172641,Diesel,Automatic,1.4,Sedan,4,3550.36
+Volkswagen,Polo,2007,40570,Petrol,Manual,2.0,Hatchback,4,10755.95
+BMW,X5,2010,46967,Diesel,Manual,1.6,Sedan,4,25917.89
+Nissan,Altima,2011,170826,Hybrid,Automatic,1.4,Hatchback,4,516.41
+Ford,Explorer,2017,42692,Petrol,Manual,1.8,Coupe,4,27138.73
+Honda,CR-V,2009,170036,Petrol,Automatic,2.0,Hatchback,4,-4101.29
+Audi,Q7,2012,110351,Petrol,Manual,3.0,Sedan,4,13180.03
+Audi,Q5,2009,217827,Petrol,Manual,2.4,Coupe,4,-6959.46
+Honda,Accord,2019,9180,Petrol,Manual,1.8,Hatchback,4,30863.82
+Volkswagen,Tiguan,2006,208218,Hybrid,Manual,2.0,SUV,5,-12071.69
+Honda,CR-V,2008,51114,Petrol,Manual,1.4,Hatchback,5,15465.45
+Volkswagen,Tiguan,2008,9647,Diesel,Manual,1.8,Coupe,4,25619.81
+Toyota,Corolla,2022,159834,Diesel,Manual,2.4,SUV,2,9874.77
+Volkswagen,Passat,2023,118091,Petrol,Automatic,1.4,SUV,4,24168.82
+Volkswagen,Golf,2014,184549,Petrol,Manual,3.0,SUV,4,792.83
+Volkswagen,Passat,2006,25621,Petrol,Manual,2.0,Sedan,4,12587.09
+Audi,A3,2019,19611,Diesel,Manual,2.8,Hatchback,7,35513.21
+BMW,3 Series,2013,125660,Petrol,Automatic,1.6,Sedan,4,16342.11
+Audi,Q7,2021,194292,Diesel,Manual,2.8,SUV,4,17567.39
+Ford,Focus,2010,90456,Hybrid,Manual,1.8,SUV,5,16148.27
+Volkswagen,Polo,2024,175858,Hybrid,Manual,3.0,Sedan,4,15967.35
+Mercedes,C Class,2020,199553,Electric,Manual,2.0,SUV,2,17673.63
+BMW,X3,2007,191591,Hybrid,Manual,2.4,Hatchback,4,-1404.25
+Mercedes,E Class,2018,112889,Hybrid,Manual,1.6,Sedan,7,23132.91
+Mercedes,GLC,2009,154257,Hybrid,Automatic,3.0,Sedan,4,14261.3
+Toyota,Camry,2010,116595,Diesel,Manual,1.6,Coupe,4,9068.15
+Honda,Accord,2008,148965,Hybrid,Manual,1.4,Coupe,5,-2486.81
+Honda,Accord,2018,125624,Electric,Manual,2.0,SUV,4,20529.95
+Toyota,Prius,2008,116470,Diesel,Manual,2.8,Sedan,5,11602.97
+BMW,5 Series,2017,97224,Diesel,Manual,3.0,Sedan,4,23239.29
+Audi,Q5,2015,144307,Diesel,Manual,2.8,Sedan,4,11522.35
+Audi,Q7,2019,165739,Hybrid,Manual,2.0,SUV,4,15891.93
+BMW,5 Series,2024,202365,Petrol,Automatic,3.0,Coupe,7,12195.4
+Volkswagen,Passat,2003,135683,Hybrid,Manual,2.0,Hatchback,4,-8136.76
+Mercedes,C Class,2024,23913,Hybrid,Automatic,2.0,Sedan,4,50168.36
+Toyota,Camry,2005,130070,Electric,Manual,1.6,Coupe,7,3144.36
+Volkswagen,Golf,2014,70836,Petrol,Manual,2.8,SUV,4,20408.56
+Mercedes,C Class,2010,7845,Diesel,Automatic,1.8,Sedan,5,32735.5
+Audi,Q7,2017,17795,Hybrid,Automatic,1.6,SUV,5,44682.52
+Mercedes,C Class,2018,130903,Electric,Manual,1.8,Sedan,4,24067.62
+Mercedes,E Class,2021,207967,Hybrid,Automatic,2.4,Coupe,5,13095.57
+Toyota,RAV4,2011,112214,Diesel,Manual,1.6,SUV,5,5825.81
+Mercedes,GLE,2023,99067,Diesel,Manual,1.8,Hatchback,4,25257.76
+Volkswagen,Golf,2010,21327,Petrol,Automatic,1.8,SUV,7,27485.63
+Ford,Focus,2007,149225,Electric,Automatic,2.4,Coupe,7,6343.13
+Mercedes,E Class,2011,14092,Petrol,Manual,2.4,Hatchback,5,31412.55
+Toyota,Prius,2014,185364,Diesel,Manual,2.4,SUV,4,2011.92
+Ford,Explorer,2017,179976,Hybrid,Manual,1.4,Sedan,4,1332.47
+BMW,3 Series,2021,218038,Petrol,Manual,1.8,Coupe,4,2019.21
+Nissan,Altima,2007,63973,Petrol,Automatic,2.4,SUV,2,17024.9
+Honda,Accord,2009,37268,Petrol,Manual,1.6,Sedan,4,12833.62
+Ford,Explorer,2023,67298,Hybrid,Manual,1.4,Coupe,4,34558.68
+BMW,3 Series,2012,176293,Diesel,Manual,1.8,Sedan,5,858.91
+Nissan,Sentra,2008,49703,Petrol,Manual,2.4,Sedan,4,14904.96
+Volkswagen,Golf,2024,195458,Diesel,Manual,2.4,SUV,4,9330.25
+Toyota,Corolla,2012,35612,Petrol,Automatic,1.4,Sedan,4,19975.31
+Honda,Fit,2024,12654,Hybrid,Manual,2.4,SUV,4,42647.32
+Volkswagen,Golf,2023,49819,Petrol,Automatic,1.6,Sedan,7,28818.74
+Toyota,Camry,2022,166391,Petrol,Manual,2.8,Sedan,5,5824.7
+Volkswagen,Polo,2015,133296,Petrol,Manual,2.0,Sedan,2,5810.21
+Ford,Mustang,2020,79330,Diesel,Manual,1.4,Sedan,2,12343.09
+Nissan,Altima,2024,145016,Diesel,Manual,1.8,Coupe,5,19105.79
+Ford,Fiesta,2008,143394,Hybrid,Manual,2.8,SUV,4,6926.59
+BMW,X3,2003,122929,Diesel,Automatic,2.0,SUV,5,11117.97
+Audi,A4,2010,114062,Petrol,Automatic,2.4,SUV,4,10111.59
+Honda,CR-V,2017,24125,Petrol,Manual,2.8,Hatchback,2,25221.41
+Mercedes,GLC,2015,58623,Petrol,Manual,1.4,Sedan,4,28893.76
+Mercedes,GLC,2004,117038,Electric,Automatic,3.0,Sedan,5,30717.13
+Volkswagen,Golf,2015,31478,Petrol,Manual,1.8,Hatchback,7,25956.98
+Nissan,Qashqai,2006,105732,Electric,Automatic,2.8,SUV,5,18286.46
+Audi,Q7,2014,27494,Petrol,Manual,2.0,Hatchback,4,29131.0
+BMW,3 Series,2015,173616,Petrol,Manual,2.4,Coupe,5,4037.13
+BMW,X3,2017,24524,Petrol,Manual,1.8,Hatchback,4,33770.24
+BMW,X3,2012,22173,Petrol,Automatic,2.8,Sedan,4,29385.0
+Volkswagen,Tiguan,2011,141038,Hybrid,Manual,1.4,Sedan,7,-1760.71
+Ford,Fiesta,2017,50075,Diesel,Automatic,3.0,Sedan,4,23711.21
+Honda,Accord,2019,78607,Petrol,Manual,1.6,Hatchback,7,20273.05
+Ford,Explorer,2020,70508,Diesel,Manual,3.0,Coupe,4,26024.84
+Toyota,Corolla,2010,49226,Diesel,Automatic,1.4,Coupe,4,20962.07
+Toyota,RAV4,2012,168068,Electric,Manual,1.4,Sedan,4,998.47
+Toyota,RAV4,2010,152830,Electric,Manual,1.4,Hatchback,7,-2011.69
+Volkswagen,Tiguan,2014,54053,Diesel,Manual,2.0,SUV,4,20624.12
+Audi,A4,2005,151733,Hybrid,Automatic,1.6,Hatchback,5,-97.3
+Audi,Q5,2012,157536,Hybrid,Manual,2.4,SUV,4,6246.65
+BMW,3 Series,2007,119538,Diesel,Manual,2.8,Sedan,5,8869.69
+Audi,Q7,2014,128088,Diesel,Automatic,1.4,Sedan,4,9283.98
+Honda,Accord,2021,205820,Petrol,Automatic,2.0,Coupe,4,3700.96
+Nissan,Altima,2024,100945,Hybrid,Automatic,2.8,SUV,5,31645.01
+Mercedes,GLE,2012,86020,Electric,Automatic,1.8,SUV,5,25276.75
+Nissan,Juke,2004,119502,Petrol,Automatic,3.0,SUV,4,4140.42
+Honda,CR-V,2008,184218,Hybrid,Manual,2.4,SUV,4,3280.15
+BMW,3 Series,2005,156689,Electric,Manual,1.4,Coupe,4,457.54
+Audi,Q7,2019,18380,Petrol,Automatic,2.0,Sedan,7,38956.84
+BMW,X5,2024,102122,Diesel,Automatic,1.8,Sedan,5,28655.71
+BMW,X3,2015,163283,Electric,Automatic,1.4,Hatchback,5,14706.3
+Honda,Fit,2006,50814,Electric,Manual,3.0,SUV,5,24998.97
+BMW,3 Series,2003,217481,Petrol,Manual,1.6,Sedan,5,-17526.73
+Honda,Civic,2024,178167,Petrol,Manual,1.4,Sedan,4,3743.59
+Ford,Explorer,2009,186558,Diesel,Manual,1.6,Sedan,4,-10320.06
+Audi,Q5,2005,19816,Petrol,Manual,2.8,Sedan,5,24039.7
+Audi,A4,2006,128366,Petrol,Automatic,2.4,Sedan,4,2472.96
+Mercedes,E Class,2008,117057,Petrol,Manual,2.8,Sedan,4,15807.62
+Ford,Mustang,2017,138635,Petrol,Manual,2.0,Hatchback,4,7058.29
+Nissan,Qashqai,2022,187357,Diesel,Manual,1.4,Coupe,5,-465.66
+Toyota,Corolla,2009,79017,Diesel,Manual,1.8,Coupe,5,12414.62
+Ford,Mustang,2018,118407,Diesel,Automatic,1.6,SUV,2,13866.47
+Toyota,RAV4,2004,150127,Hybrid,Manual,2.0,Sedan,7,-6723.72
+Ford,Fiesta,2003,166195,Petrol,Manual,1.6,Coupe,4,-18288.85
+Nissan,Sentra,2004,169946,Petrol,Manual,3.0,Hatchback,4,-12336.18
+Ford,Explorer,2023,75452,Petrol,Manual,1.8,SUV,7,23078.15
+Nissan,Altima,2015,219613,Petrol,Manual,1.8,Sedan,5,-16242.29
+BMW,5 Series,2020,4097,Petrol,Automatic,3.0,Sedan,7,45128.87
+Audi,A4,2003,109356,Petrol,Automatic,2.0,SUV,5,12937.06
+BMW,X3,2003,134711,Petrol,Manual,1.6,SUV,5,4246.79
+Ford,Focus,2021,15364,Petrol,Manual,2.0,Sedan,4,30029.09
+Volkswagen,Passat,2005,100353,Diesel,Manual,1.6,Coupe,4,-1752.86
+Nissan,Altima,2006,131897,Diesel,Manual,2.8,SUV,7,6348.79
+Ford,Explorer,2014,134459,Electric,Manual,2.4,SUV,5,13365.83
+Volkswagen,Tiguan,2016,27947,Hybrid,Automatic,2.8,Sedan,4,34327.46
+Ford,Fiesta,2008,62496,Diesel,Manual,3.0,Hatchback,4,20246.25
+Audi,A4,2012,55358,Petrol,Automatic,2.8,Hatchback,4,22796.16
+Volkswagen,Golf,2017,141503,Diesel,Manual,1.8,Sedan,4,-2869.95
+BMW,X3,2012,73674,Petrol,Automatic,1.6,SUV,5,19667.63
+Audi,Q5,2011,126576,Petrol,Manual,2.0,Hatchback,2,8071.66
+Ford,Fiesta,2004,161364,Petrol,Manual,2.0,Hatchback,4,-12059.36
+Toyota,Camry,2012,175806,Petrol,Manual,1.8,Sedan,7,-8435.12
+Toyota,Prius,2020,42070,Petrol,Automatic,2.8,Coupe,4,28784.3
+BMW,X5,2016,198969,Diesel,Manual,3.0,SUV,4,6350.83
+Nissan,Sentra,2022,38134,Hybrid,Manual,1.8,Sedan,4,26648.38
+Honda,Accord,2005,6769,Hybrid,Manual,2.4,Sedan,4,25447.61
+BMW,X5,2003,11802,Diesel,Manual,3.0,Sedan,4,25359.07
+Audi,Q5,2015,45826,Diesel,Manual,1.4,Sedan,4,24044.54
+Honda,CR-V,2006,192366,Petrol,Manual,1.8,SUV,4,-13652.36
+Audi,A3,2016,47318,Diesel,Manual,2.8,Hatchback,4,30724.75
+Ford,Fiesta,2022,153184,Diesel,Manual,2.0,Sedan,4,8463.23
+Volkswagen,Tiguan,2010,93231,Petrol,Automatic,2.8,Coupe,2,14364.68
+Mercedes,GLE,2015,10708,Petrol,Automatic,2.0,Sedan,7,38448.97
+Mercedes,GLC,2017,98822,Electric,Manual,1.4,SUV,4,27581.01
+Honda,Accord,2006,8167,Diesel,Manual,2.0,Coupe,4,20023.92
+BMW,X5,2022,105805,Diesel,Manual,1.8,Hatchback,5,20117.88
+Volkswagen,Golf,2007,123790,Diesel,Manual,2.8,Hatchback,4,1254.84
+Toyota,Corolla,2020,115657,Petrol,Manual,1.6,Hatchback,4,17890.36
+Volkswagen,Tiguan,2017,63592,Diesel,Manual,1.6,Sedan,5,15637.16
+BMW,X3,2006,169112,Petrol,Manual,1.4,Sedan,4,-6880.88
+Audi,Q7,2018,132086,Petrol,Automatic,2.0,SUV,4,18738.97
+Audi,Q5,2007,57543,Diesel,Manual,3.0,Sedan,5,20771.6
+BMW,3 Series,2016,96743,Petrol,Automatic,2.4,SUV,5,28322.96
+Ford,Explorer,2024,25654,Hybrid,Manual,2.8,Sedan,4,36195.09
+Audi,A4,2023,203282,Petrol,Manual,2.8,Coupe,2,7958.71
+Honda,Accord,2022,166164,Diesel,Manual,2.4,Coupe,2,12697.29
+Mercedes,GLE,2013,64742,Diesel,Automatic,2.4,Hatchback,5,33740.72
+Toyota,Prius,2015,149132,Diesel,Automatic,1.6,Hatchback,4,9460.23
+Audi,Q5,2009,150053,Diesel,Manual,3.0,Sedan,4,6253.17
+Audi,A4,2023,134909,Electric,Manual,2.8,Sedan,4,25457.93
+Toyota,RAV4,2013,13783,Diesel,Manual,3.0,Hatchback,7,30068.56
+Volkswagen,Passat,2019,193518,Diesel,Manual,3.0,Hatchback,2,1437.16
+BMW,X5,2010,210377,Diesel,Manual,1.8,SUV,4,-6279.37
+Volkswagen,Polo,2019,214363,Petrol,Manual,1.6,SUV,4,-1588.24
+Toyota,Prius,2007,215805,Petrol,Manual,3.0,SUV,5,-9583.75
+Honda,Civic,2019,204483,Petrol,Automatic,2.0,Sedan,4,-1650.48
+BMW,5 Series,2004,163118,Petrol,Manual,3.0,Sedan,5,-5328.91
+Honda,Accord,2005,14399,Petrol,Manual,2.4,SUV,2,21507.5
+Ford,Explorer,2010,103416,Petrol,Manual,1.6,Hatchback,4,-3573.16
+Audi,Q5,2013,55442,Diesel,Manual,1.8,Coupe,4,23659.16
+Honda,Accord,2018,49958,Petrol,Manual,2.4,SUV,4,25205.65
+Audi,Q5,2010,183074,Hybrid,Automatic,1.8,Hatchback,4,2065.06
+Toyota,Prius,2003,179128,Petrol,Automatic,1.6,Hatchback,5,-6827.52
+Honda,Accord,2010,115810,Diesel,Manual,1.6,Sedan,4,6384.3
+Mercedes,E Class,2012,162525,Petrol,Automatic,2.4,Hatchback,5,12280.39
+Volkswagen,Polo,2014,30201,Diesel,Manual,1.4,SUV,4,27328.5
+Honda,CR-V,2017,50385,Petrol,Manual,1.4,SUV,4,26630.87
+Ford,Focus,2008,189583,Diesel,Manual,1.4,Sedan,4,-6682.13
+Nissan,Juke,2016,100364,Petrol,Manual,2.8,Coupe,4,12992.6
+Nissan,Juke,2016,121165,Electric,Manual,1.4,Coupe,4,10839.57
+Mercedes,GLC,2020,102890,Petrol,Automatic,1.8,Sedan,7,27319.99
+BMW,X5,2014,46070,Diesel,Manual,1.4,Sedan,7,26195.63
+Ford,Explorer,2020,182157,Petrol,Automatic,2.4,Sedan,5,4016.87
+Mercedes,E Class,2007,167309,Diesel,Automatic,1.4,Hatchback,5,288.65
+Mercedes,E Class,2018,151078,Diesel,Automatic,1.4,SUV,4,15597.93
+Ford,Focus,2004,78996,Petrol,Manual,1.8,Sedan,4,8267.17
+Toyota,Prius,2005,142210,Petrol,Automatic,2.4,Hatchback,4,-5717.36
+Honda,Accord,2022,209809,Petrol,Manual,1.4,SUV,5,1230.84
+Nissan,Sentra,2013,143662,Petrol,Manual,2.0,SUV,4,5118.37
+BMW,X5,2016,109751,Electric,Manual,2.8,SUV,4,22091.98
+BMW,5 Series,2016,60962,Petrol,Automatic,2.4,SUV,5,28668.34
+BMW,5 Series,2018,115971,Petrol,Manual,2.8,SUV,4,19704.61
+Volkswagen,Passat,2008,83033,Electric,Manual,1.8,Sedan,5,14960.73
+Toyota,Camry,2006,135256,Petrol,Automatic,3.0,SUV,4,4379.41
+Toyota,Corolla,2003,11954,Petrol,Manual,1.6,Coupe,5,17374.39
+Ford,Explorer,2022,43456,Diesel,Automatic,2.4,SUV,5,30013.45
+BMW,3 Series,2007,173553,Hybrid,Manual,2.0,Coupe,4,9103.38
+Audi,A4,2015,84997,Diesel,Manual,1.4,SUV,4,22028.37
+BMW,X5,2013,96393,Diesel,Manual,3.0,Hatchback,2,20646.06
+BMW,3 Series,2006,120569,Electric,Manual,2.4,Sedan,2,10067.58
+Nissan,Juke,2012,97535,Petrol,Manual,1.6,Hatchback,4,3755.29
+Honda,CR-V,2004,167383,Electric,Manual,1.4,Sedan,4,-408.35
+Mercedes,GLC,2006,55487,Hybrid,Manual,2.4,Sedan,4,17278.83
+Mercedes,E Class,2006,167338,Electric,Automatic,2.0,Sedan,4,7870.83
+BMW,3 Series,2021,47655,Petrol,Automatic,1.4,Sedan,4,28345.29
+Volkswagen,Polo,2015,82789,Petrol,Manual,3.0,Coupe,7,18001.98
+Ford,Fiesta,2023,130145,Diesel,Manual,2.8,Coupe,4,15532.0
+Nissan,Qashqai,2012,195143,Diesel,Manual,2.0,Hatchback,4,-11880.87
+Ford,Focus,2007,52696,Diesel,Automatic,1.6,Sedan,4,14228.13
+Mercedes,C Class,2016,130050,Electric,Automatic,1.6,Coupe,2,14673.31
+Mercedes,GLE,2023,15997,Diesel,Manual,2.0,Hatchback,7,41510.98
+Volkswagen,Polo,2014,18442,Petrol,Manual,1.4,Sedan,4,22491.51
+BMW,X3,2003,169316,Petrol,Automatic,1.8,SUV,5,-6026.56
+Ford,Explorer,2009,158733,Petrol,Automatic,1.6,Hatchback,4,-1129.64
+Toyota,Corolla,2023,84070,Petrol,Manual,1.4,Sedan,5,18365.13
+Ford,Explorer,2014,137809,Petrol,Automatic,1.4,SUV,5,4934.43
+Volkswagen,Tiguan,2023,84891,Hybrid,Manual,1.8,Hatchback,5,20924.52
+Toyota,Corolla,2014,62439,Diesel,Manual,1.8,Sedan,4,18599.97
+Nissan,Altima,2003,96027,Diesel,Automatic,1.8,SUV,4,10801.2
+Mercedes,GLE,2022,69985,Petrol,Manual,2.4,SUV,5,42616.35
+Honda,Accord,2019,179679,Diesel,Manual,2.0,Hatchback,4,3743.83
+Ford,Explorer,2018,91744,Hybrid,Automatic,1.6,Coupe,4,23967.66
+Mercedes,C Class,2024,71942,Hybrid,Automatic,3.0,Hatchback,4,45343.01
+Ford,Fiesta,2007,118881,Diesel,Manual,2.8,Hatchback,4,3197.81
+Toyota,Camry,2022,167251,Hybrid,Manual,2.0,SUV,4,17319.62
+Audi,A4,2008,61659,Diesel,Automatic,1.4,Hatchback,2,20437.06
+Audi,Q5,2024,206820,Diesel,Manual,3.0,SUV,4,13233.16
+Toyota,RAV4,2007,103050,Hybrid,Automatic,2.8,Sedan,2,13072.09
+Ford,Explorer,2015,146069,Petrol,Automatic,2.0,Hatchback,4,-2920.95
+Honda,CR-V,2020,210678,Petrol,Manual,1.6,Hatchback,5,-5187.26
+Audi,A3,2004,96106,Petrol,Manual,1.4,SUV,4,3160.93
+Audi,Q7,2004,45560,Diesel,Automatic,1.8,Coupe,5,16598.34
+Audi,Q5,2021,165018,Diesel,Automatic,1.6,Hatchback,2,12213.97
+Nissan,Juke,2004,3443,Diesel,Manual,1.6,SUV,4,17615.21
+Volkswagen,Tiguan,2016,101821,Petrol,Manual,1.8,Sedan,5,10949.46
+Ford,Explorer,2023,215638,Petrol,Automatic,1.4,Sedan,5,-2571.85
+Toyota,RAV4,2016,92345,Hybrid,Manual,1.8,SUV,5,20563.66
+Mercedes,GLC,2013,151132,Petrol,Manual,3.0,SUV,5,10903.05
+Nissan,Juke,2012,116511,Electric,Automatic,3.0,Sedan,5,19103.8
+Nissan,Juke,2017,48800,Petrol,Automatic,1.4,Sedan,5,21830.45
+Honda,Accord,2015,71263,Diesel,Automatic,2.4,Sedan,5,23484.1
+Honda,Accord,2014,116130,Diesel,Automatic,3.0,Hatchback,5,10067.99
+Toyota,Prius,2006,24726,Hybrid,Manual,2.4,Hatchback,4,20378.67
+Honda,Civic,2017,92446,Petrol,Automatic,1.8,SUV,4,22571.06
+Mercedes,E Class,2019,92437,Hybrid,Manual,2.0,Sedan,4,30365.91
+Mercedes,GLC,2018,184010,Diesel,Manual,1.6,Sedan,4,4426.86
+Ford,Explorer,2004,29000,Diesel,Automatic,1.8,Sedan,5,14734.21
+Ford,Mustang,2018,185707,Diesel,Automatic,3.0,SUV,4,3908.94
+Volkswagen,Passat,2019,91476,Petrol,Automatic,2.4,Sedan,4,17433.8
+BMW,5 Series,2007,143994,Diesel,Manual,2.0,Sedan,5,-795.94
+Volkswagen,Tiguan,2021,123411,Petrol,Automatic,1.4,Coupe,4,13943.86
+Nissan,Juke,2014,67352,Petrol,Manual,3.0,SUV,5,23302.68
+Ford,Focus,2013,204895,Diesel,Automatic,1.6,Hatchback,4,-11393.27
+Honda,CR-V,2018,50933,Diesel,Automatic,2.8,Sedan,4,29142.12
+Nissan,Sentra,2014,9896,Petrol,Manual,1.8,Sedan,4,24313.13
+Audi,Q5,2014,165527,Petrol,Automatic,1.6,Coupe,4,9981.52
+Ford,Explorer,2009,137477,Petrol,Manual,1.6,SUV,2,-3102.95
+Mercedes,GLE,2023,196137,Petrol,Automatic,1.8,Hatchback,4,7654.65
+Mercedes,GLC,2024,101786,Diesel,Automatic,2.4,Coupe,4,31071.25
+Nissan,Sentra,2005,5671,Petrol,Automatic,1.8,SUV,4,19239.19
+Ford,Fiesta,2019,6416,Hybrid,Manual,1.4,Sedan,5,33838.51
+Nissan,Altima,2003,96450,Petrol,Manual,1.6,SUV,2,906.65
+Nissan,Qashqai,2011,56401,Petrol,Automatic,1.6,Sedan,4,15923.21
+Honda,Fit,2024,203035,Hybrid,Automatic,1.8,Sedan,2,9832.55
+Honda,Fit,2006,27829,Petrol,Automatic,3.0,Sedan,7,26453.44
+Mercedes,E Class,2011,194017,Petrol,Manual,3.0,Coupe,5,-1991.01
+Toyota,Camry,2007,49261,Electric,Manual,3.0,Hatchback,7,24406.09
+Ford,Explorer,2019,28029,Electric,Automatic,1.4,Sedan,7,34276.85
+BMW,X5,2013,61856,Diesel,Automatic,2.0,Sedan,4,24588.83
+Nissan,Juke,2016,33422,Petrol,Manual,1.4,Hatchback,5,21632.63
+Nissan,Sentra,2023,89484,Diesel,Manual,2.0,Coupe,4,17468.45
+Honda,Accord,2014,74040,Electric,Manual,2.4,Sedan,5,27153.26
+Nissan,Juke,2019,117330,Electric,Manual,2.8,Sedan,4,20828.42
+Toyota,RAV4,2005,119080,Petrol,Manual,1.8,Coupe,4,-2203.03
+Audi,A4,2007,2215,Petrol,Manual,1.4,Coupe,7,25427.99
+Volkswagen,Polo,2023,29222,Petrol,Manual,2.0,Coupe,5,27289.97
+Nissan,Altima,2021,37287,Petrol,Automatic,1.8,Sedan,7,28383.68
+Honda,Accord,2017,44449,Diesel,Automatic,2.4,Sedan,4,26954.44
+Nissan,Qashqai,2011,22397,Petrol,Automatic,1.4,SUV,4,19828.19
+Toyota,RAV4,2007,70590,Petrol,Manual,2.4,Sedan,4,13579.25
+Mercedes,GLE,2021,121828,Petrol,Manual,1.8,Coupe,4,25556.71
+BMW,5 Series,2020,69338,Diesel,Manual,2.8,Sedan,4,30931.61
+Ford,Explorer,2008,73738,Petrol,Manual,3.0,Hatchback,4,9249.09
+Toyota,RAV4,2015,104363,Petrol,Manual,1.6,Coupe,5,13206.61
+Volkswagen,Polo,2016,121550,Petrol,Automatic,2.8,Coupe,4,14358.16
+Ford,Focus,2013,74150,Electric,Automatic,1.4,Hatchback,5,14990.03
+Audi,Q5,2023,50357,Petrol,Automatic,3.0,Coupe,5,37747.17
+BMW,X3,2005,91245,Diesel,Manual,2.0,Sedan,4,10227.3
+Ford,Explorer,2008,7281,Petrol,Manual,2.8,SUV,4,26183.62
+Nissan,Altima,2005,109380,Petrol,Manual,2.8,Sedan,4,2041.48
+Toyota,RAV4,2018,207217,Petrol,Manual,2.4,Coupe,4,-1125.88
+Audi,A3,2017,88749,Petrol,Automatic,1.8,Coupe,5,19045.73
+Audi,A4,2024,25611,Petrol,Manual,2.8,Sedan,4,42318.72
+BMW,X5,2014,156143,Diesel,Automatic,2.0,Sedan,2,9605.19
+Ford,Fiesta,2006,29655,Diesel,Manual,2.4,SUV,7,28930.77
+Toyota,Prius,2012,44213,Petrol,Automatic,2.4,Sedan,5,21701.23
+Nissan,Altima,2004,33947,Petrol,Automatic,2.0,Hatchback,5,14924.61
+Nissan,Juke,2017,194639,Diesel,Manual,1.4,Sedan,4,4118.48
+Honda,CR-V,2017,215918,Petrol,Automatic,1.8,Hatchback,7,-5744.15
+Toyota,Prius,2021,126181,Petrol,Manual,3.0,SUV,4,18071.0
+Toyota,Camry,2010,136649,Petrol,Automatic,2.0,SUV,4,2745.03
+Toyota,Camry,2009,142709,Petrol,Automatic,2.4,Sedan,5,7402.83
+Volkswagen,Passat,2004,135043,Diesel,Automatic,1.6,Coupe,5,-4116.87
+Nissan,Sentra,2012,120614,Electric,Automatic,2.4,Hatchback,4,13856.27
+Honda,CR-V,2013,217100,Electric,Manual,2.0,SUV,4,-4293.38
+Audi,A4,2019,161822,Electric,Automatic,1.6,SUV,4,18166.16
+Honda,Accord,2019,21279,Petrol,Automatic,1.6,Coupe,5,27713.2
+Ford,Fiesta,2006,87443,Petrol,Manual,1.8,Hatchback,5,6858.27
+Mercedes,C Class,2009,214441,Petrol,Manual,2.0,Hatchback,4,-9088.33
+Audi,Q5,2014,89998,Petrol,Automatic,1.6,Hatchback,4,13512.07
+Volkswagen,Polo,2010,46474,Petrol,Manual,1.6,Coupe,5,20743.29
+Toyota,Camry,2003,191330,Petrol,Manual,1.6,Sedan,5,-18052.64
+Honda,Fit,2021,137829,Diesel,Automatic,1.8,Hatchback,4,13561.52
+Ford,Mustang,2019,124640,Petrol,Automatic,2.8,SUV,4,19257.33
+Ford,Focus,2014,93578,Petrol,Manual,2.0,SUV,7,14972.87
+Nissan,Sentra,2009,29113,Diesel,Manual,2.0,Coupe,4,14230.43
+Volkswagen,Golf,2021,85701,Petrol,Manual,1.6,Coupe,4,21598.96
+Ford,Focus,2003,97370,Hybrid,Automatic,2.0,SUV,4,7851.44
+Nissan,Sentra,2012,205011,Petrol,Manual,3.0,SUV,4,-6554.87
+BMW,5 Series,2020,68985,Diesel,Manual,2.8,Coupe,5,32733.66
+Mercedes,GLE,2023,34531,Petrol,Automatic,2.0,Coupe,4,36832.32
+BMW,3 Series,2008,95201,Diesel,Automatic,1.8,Hatchback,4,14578.77
+Honda,Fit,2017,219361,Petrol,Automatic,1.8,Sedan,4,-10951.03
+Nissan,Altima,2007,107120,Petrol,Manual,1.4,Sedan,5,-696.29
+Toyota,Corolla,2005,84649,Diesel,Automatic,1.4,Coupe,4,10263.23
+Honda,CR-V,2010,147380,Petrol,Manual,2.8,Hatchback,2,2708.52
+Honda,Fit,2022,143432,Petrol,Manual,2.8,Hatchback,4,8559.48
+Ford,Mustang,2018,67244,Electric,Automatic,3.0,Hatchback,4,33441.16
+Honda,Civic,2013,213003,Petrol,Automatic,2.4,SUV,7,-810.61
+Toyota,Corolla,2009,131262,Diesel,Manual,3.0,SUV,5,7198.73
+Audi,A4,2006,14557,Diesel,Automatic,1.8,Hatchback,5,22831.74
+Nissan,Sentra,2008,90850,Petrol,Manual,1.6,Sedan,4,-173.21
+Toyota,RAV4,2006,203184,Diesel,Manual,1.6,Hatchback,4,-14403.51
+Ford,Fiesta,2007,87752,Petrol,Manual,1.6,Hatchback,7,845.33
+Mercedes,C Class,2018,125782,Diesel,Manual,2.8,Hatchback,4,23897.18
+Nissan,Qashqai,2005,135552,Petrol,Automatic,1.4,Sedan,5,-6473.84
+Audi,A3,2004,155558,Petrol,Automatic,3.0,Hatchback,4,-2082.59
+Volkswagen,Golf,2014,192164,Petrol,Automatic,2.8,Sedan,4,-1141.92
+Mercedes,E Class,2009,34522,Hybrid,Manual,1.8,Sedan,4,25890.69
+BMW,5 Series,2013,114650,Hybrid,Manual,2.4,SUV,4,19890.36
+Honda,CR-V,2006,118278,Electric,Manual,1.4,Sedan,2,6865.13
+Volkswagen,Polo,2007,35222,Diesel,Automatic,2.0,Coupe,4,21635.17
+Volkswagen,Polo,2012,148825,Diesel,Manual,1.4,Coupe,4,1498.59
+Toyota,Camry,2018,27757,Diesel,Manual,1.4,Sedan,4,28160.21
+Audi,Q7,2012,101461,Hybrid,Automatic,1.4,Hatchback,5,11219.1
+Toyota,Prius,2014,73994,Diesel,Automatic,2.8,SUV,4,26234.96
+Audi,A3,2014,35786,Petrol,Manual,2.8,Hatchback,5,29070.3
+Volkswagen,Polo,2008,181265,Diesel,Manual,3.0,Coupe,4,-670.43
+Honda,Civic,2009,55217,Diesel,Automatic,3.0,SUV,2,25499.53
+BMW,X5,2012,57642,Petrol,Manual,3.0,Sedan,4,24078.2
+Toyota,RAV4,2003,188257,Petrol,Manual,3.0,Sedan,7,-7982.6
+Mercedes,C Class,2018,193265,Petrol,Automatic,1.4,SUV,4,7175.88
+Nissan,Sentra,2016,9514,Hybrid,Manual,2.8,Coupe,7,36578.38
+Toyota,Camry,2009,62577,Petrol,Manual,2.8,SUV,4,17340.46
+BMW,X3,2011,156531,Hybrid,Manual,1.6,SUV,5,9802.04
+Nissan,Altima,2010,171634,Petrol,Manual,1.4,Sedan,5,-9898.89
+Ford,Mustang,2017,219867,Hybrid,Manual,3.0,Coupe,7,4196.11
+Honda,Accord,2019,122915,Petrol,Manual,3.0,Sedan,2,19830.86
+BMW,3 Series,2005,3631,Electric,Manual,1.8,Hatchback,7,32943.02
+Mercedes,GLC,2012,192451,Diesel,Manual,1.4,Hatchback,4,3390.97
+Audi,Q7,2003,37107,Petrol,Automatic,1.8,Sedan,5,13895.25
+Ford,Mustang,2012,28333,Petrol,Automatic,1.4,Sedan,4,16051.65
+Nissan,Altima,2008,148963,Petrol,Manual,2.4,SUV,4,-1842.33
+Mercedes,C Class,2010,133632,Petrol,Manual,1.8,Sedan,4,7778.18
+Ford,Fiesta,2013,15078,Diesel,Automatic,1.4,Hatchback,5,24251.7
+Nissan,Juke,2010,38903,Electric,Automatic,3.0,Hatchback,4,21942.63
+Nissan,Juke,2011,130574,Diesel,Automatic,2.8,Sedan,4,11481.77
+BMW,3 Series,2019,57666,Diesel,Manual,3.0,SUV,4,42513.55
+Toyota,Prius,2020,151112,Petrol,Manual,3.0,Sedan,5,14399.0
+Mercedes,E Class,2003,91764,Hybrid,Manual,1.4,Sedan,4,14656.15
+Mercedes,GLC,2011,130215,Hybrid,Automatic,2.8,Hatchback,5,17984.88
+Honda,Fit,2021,105540,Petrol,Manual,2.8,Hatchback,4,14405.21
+Audi,Q5,2014,81610,Electric,Manual,2.8,Hatchback,5,26542.29
+Volkswagen,Golf,2007,76644,Petrol,Manual,1.6,Sedan,5,13541.96
+Toyota,RAV4,2016,154007,Hybrid,Manual,1.8,SUV,5,7752.38
+Audi,A3,2006,114136,Electric,Manual,3.0,SUV,5,16199.66
+Honda,Fit,2003,131556,Diesel,Manual,1.4,Coupe,4,163.29
+Audi,A3,2016,127853,Petrol,Manual,2.4,Hatchback,4,16142.26
+BMW,X5,2014,47264,Diesel,Automatic,2.8,Coupe,5,31279.19
+Toyota,Corolla,2019,201084,Petrol,Automatic,2.8,Sedan,4,1168.13
+Nissan,Altima,2010,124763,Hybrid,Manual,2.4,SUV,4,7236.56
+Honda,CR-V,2021,158538,Petrol,Automatic,2.8,Hatchback,5,10386.17
+Mercedes,GLC,2012,194255,Diesel,Automatic,3.0,SUV,4,12665.9
+Honda,Civic,2019,203586,Hybrid,Manual,2.8,Hatchback,4,-1418.37
+Nissan,Qashqai,2005,147369,Petrol,Manual,1.4,SUV,7,-2139.49
+Audi,A4,2005,173591,Petrol,Manual,1.6,Coupe,4,-5021.1
+Volkswagen,Passat,2020,104850,Diesel,Manual,1.8,Sedan,2,22670.81
+BMW,5 Series,2021,162838,Petrol,Manual,1.8,Coupe,4,13109.42
+BMW,5 Series,2023,72105,Petrol,Manual,1.8,SUV,4,30910.96
+Audi,A3,2010,157168,Petrol,Manual,1.6,SUV,5,5148.85
+Volkswagen,Passat,2003,20723,Petrol,Manual,2.4,SUV,5,17390.99
+Volkswagen,Golf,2024,201312,Diesel,Manual,1.4,Sedan,4,-5081.03
+Toyota,Corolla,2016,55328,Diesel,Manual,2.8,Coupe,4,25971.29
+Audi,A4,2008,145130,Petrol,Automatic,2.4,Coupe,4,6456.46
+Toyota,Prius,2019,4438,Diesel,Manual,3.0,Coupe,2,33705.74
+Ford,Explorer,2022,35945,Petrol,Manual,1.4,Coupe,5,27596.19
+Volkswagen,Passat,2009,217084,Petrol,Manual,1.8,Hatchback,4,-23889.87
+Ford,Fiesta,2019,183673,Diesel,Automatic,3.0,SUV,2,6826.26
+Volkswagen,Polo,2020,50501,Petrol,Automatic,2.0,Coupe,5,29389.33
+BMW,X5,2014,30524,Diesel,Manual,2.0,Sedan,5,30716.07
+Honda,Fit,2016,179642,Electric,Manual,1.4,Hatchback,4,-250.98
+Ford,Explorer,2008,217856,Diesel,Manual,2.8,SUV,4,-10987.78
+Mercedes,GLE,2023,38764,Diesel,Manual,1.6,Hatchback,4,34113.47
+Volkswagen,Polo,2024,146739,Petrol,Automatic,3.0,SUV,4,18721.59
+Mercedes,E Class,2024,63825,Petrol,Manual,1.8,SUV,4,35797.38
+Nissan,Sentra,2019,164276,Petrol,Automatic,1.6,Sedan,5,849.52
+Volkswagen,Passat,2003,93184,Hybrid,Manual,2.4,SUV,7,10183.52
+Volkswagen,Golf,2011,29327,Hybrid,Manual,2.0,SUV,4,27057.79
+Mercedes,GLC,2012,72720,Petrol,Automatic,2.0,Sedan,4,22878.53
+Ford,Mustang,2024,119419,Petrol,Manual,3.0,Sedan,4,25151.93
+BMW,X3,2015,176040,Petrol,Automatic,1.8,SUV,4,7262.55
+Toyota,Corolla,2014,6583,Diesel,Manual,1.8,Sedan,4,28021.51
+Ford,Fiesta,2006,210777,Diesel,Automatic,2.4,Hatchback,4,-15191.52
+Nissan,Altima,2020,143613,Diesel,Manual,1.6,Sedan,7,5042.65
+BMW,X3,2010,192814,Hybrid,Manual,2.8,SUV,5,6688.35
+Toyota,Camry,2005,204751,Petrol,Automatic,1.6,Sedan,7,-16451.17
+Audi,A3,2024,35479,Diesel,Manual,1.6,SUV,4,37596.35
+Nissan,Juke,2007,22433,Diesel,Manual,1.4,SUV,4,18139.69
+Volkswagen,Polo,2003,171318,Petrol,Automatic,1.8,Hatchback,4,-15189.06
+Ford,Explorer,2004,42958,Hybrid,Manual,2.4,SUV,4,12064.09
+BMW,3 Series,2012,34252,Petrol,Automatic,2.4,SUV,4,30853.23
+Mercedes,E Class,2005,104136,Diesel,Manual,3.0,Sedan,5,16850.19
+Honda,Civic,2021,201117,Diesel,Manual,2.8,SUV,5,6329.28
+Ford,Fiesta,2014,175442,Hybrid,Manual,1.8,SUV,4,6014.28
+Honda,CR-V,2010,114897,Diesel,Manual,2.8,Hatchback,4,9721.6
+Nissan,Sentra,2003,44826,Petrol,Automatic,1.6,SUV,4,15108.01
+Audi,A3,2013,75331,Hybrid,Manual,1.6,Hatchback,2,25864.9
+Volkswagen,Tiguan,2006,152091,Hybrid,Manual,1.8,SUV,4,-1287.25
+Volkswagen,Golf,2024,36231,Diesel,Manual,2.0,Sedan,4,32380.26
+Nissan,Altima,2009,116320,Hybrid,Manual,1.6,Sedan,4,4225.71
+Toyota,Corolla,2013,4574,Petrol,Manual,3.0,Sedan,7,35716.8
+Nissan,Altima,2003,72868,Diesel,Automatic,1.6,SUV,4,10191.81
+Toyota,Camry,2005,56052,Hybrid,Automatic,1.8,Hatchback,4,12936.15
+BMW,X3,2007,150476,Petrol,Automatic,2.4,Hatchback,2,4594.88
+Mercedes,GLE,2004,201256,Diesel,Manual,2.0,SUV,5,-7138.11
+Ford,Focus,2018,33932,Electric,Manual,1.8,Sedan,4,31499.35
+Honda,Civic,2023,175803,Hybrid,Manual,3.0,Coupe,4,14479.75
+Honda,Accord,2024,144991,Hybrid,Automatic,2.0,Sedan,4,16595.53
+Volkswagen,Tiguan,2008,213415,Petrol,Manual,1.4,SUV,4,-13104.1
+Ford,Mustang,2020,200709,Electric,Manual,2.8,Coupe,4,1611.45
+Ford,Explorer,2014,23966,Petrol,Manual,2.4,SUV,4,27107.6
+Nissan,Sentra,2004,164022,Diesel,Automatic,1.6,Sedan,4,-9604.81
+Honda,Civic,2004,131094,Diesel,Automatic,2.8,Sedan,5,11762.32
+Nissan,Altima,2015,26652,Hybrid,Automatic,1.8,Hatchback,4,28301.28
+Nissan,Altima,2012,58058,Hybrid,Manual,1.6,Sedan,4,15541.11
+Mercedes,C Class,2003,204073,Diesel,Automatic,1.6,Hatchback,2,-13543.71
+Honda,Fit,2023,120361,Diesel,Manual,2.8,SUV,4,26012.32
+Honda,Accord,2019,75784,Petrol,Manual,1.6,Sedan,4,16938.78
+Ford,Explorer,2014,71859,Diesel,Manual,2.0,Sedan,4,13233.05
+Mercedes,GLC,2024,184654,Diesel,Manual,2.8,Hatchback,4,15938.44
+Honda,CR-V,2024,63795,Petrol,Manual,2.8,SUV,7,33796.0
+BMW,5 Series,2024,36637,Diesel,Manual,2.0,Hatchback,4,39133.99
+Toyota,RAV4,2008,127098,Hybrid,Manual,3.0,SUV,7,10585.56
+Mercedes,C Class,2022,218367,Diesel,Automatic,1.8,Sedan,7,8503.35
+Toyota,Corolla,2014,41963,Hybrid,Automatic,3.0,SUV,4,33789.18
+Audi,A4,2018,57659,Petrol,Automatic,1.6,SUV,4,31697.85
+Toyota,Camry,2021,104271,Diesel,Manual,1.4,SUV,4,20590.85
+Honda,CR-V,2006,45559,Petrol,Manual,2.8,Hatchback,7,18501.63
+Honda,CR-V,2012,143877,Petrol,Automatic,2.8,Coupe,4,7482.67
+Volkswagen,Tiguan,2005,57289,Diesel,Manual,3.0,Hatchback,4,10674.21
+Toyota,Camry,2009,29943,Petrol,Manual,3.0,SUV,2,23948.53
+BMW,5 Series,2012,58956,Petrol,Manual,1.4,SUV,5,25100.02
+Mercedes,GLE,2021,204869,Diesel,Automatic,2.4,Hatchback,4,4006.69
+Mercedes,C Class,2021,205807,Petrol,Manual,2.4,Sedan,2,256.33
+Audi,Q5,2011,112247,Petrol,Automatic,2.4,Hatchback,4,16034.02
+Volkswagen,Tiguan,2010,89299,Petrol,Manual,1.4,Coupe,4,13090.57
+BMW,X3,2014,180657,Diesel,Manual,1.4,Sedan,5,-2466.9
+Volkswagen,Tiguan,2023,44349,Petrol,Manual,2.4,Coupe,5,31538.65
+Ford,Fiesta,2024,144551,Diesel,Manual,2.8,Hatchback,4,11802.28
+Nissan,Sentra,2007,150251,Diesel,Manual,1.6,SUV,4,-3379.84
+Mercedes,E Class,2007,156780,Petrol,Manual,1.4,Coupe,5,2557.3
+Audi,A4,2018,49512,Hybrid,Manual,1.8,Sedan,4,26850.66
+Nissan,Altima,2009,158116,Petrol,Manual,1.8,Sedan,4,-9703.98
+Volkswagen,Tiguan,2007,135414,Diesel,Automatic,3.0,Sedan,4,3461.48
+Volkswagen,Golf,2003,192771,Petrol,Manual,3.0,SUV,4,-11363.98
+Mercedes,GLC,2011,40017,Diesel,Manual,2.0,SUV,7,27593.88
+Toyota,RAV4,2011,135765,Petrol,Manual,3.0,Coupe,5,9289.17
+BMW,X3,2015,182861,Hybrid,Manual,1.6,Sedan,2,2448.82
+Honda,Civic,2007,62651,Petrol,Manual,3.0,Sedan,5,12673.0
+Nissan,Qashqai,2018,164143,Diesel,Automatic,2.0,Hatchback,4,5558.77
+Honda,Civic,2017,23693,Petrol,Manual,2.0,Sedan,5,26622.75
+Honda,Accord,2013,158545,Petrol,Automatic,1.4,Hatchback,4,1241.83
+Honda,Civic,2006,134162,Petrol,Manual,1.6,SUV,4,-4336.11
+Audi,A3,2014,43976,Diesel,Manual,1.6,Coupe,4,23412.68
+Mercedes,C Class,2017,16464,Diesel,Automatic,2.0,Hatchback,4,37845.16
+Nissan,Altima,2011,164516,Electric,Manual,1.6,Sedan,4,79.88
+BMW,X3,2008,54601,Diesel,Manual,1.4,Sedan,4,14701.4
+Ford,Focus,2014,110443,Electric,Manual,2.4,Sedan,5,9979.45
+Toyota,Camry,2010,15234,Petrol,Automatic,3.0,Coupe,5,30541.23
+Toyota,Prius,2011,212041,Hybrid,Automatic,1.4,Hatchback,4,-11292.28
+Ford,Explorer,2010,121657,Diesel,Manual,2.0,SUV,4,1353.7
+Nissan,Qashqai,2009,205084,Diesel,Automatic,3.0,Sedan,4,-3726.03
+Mercedes,C Class,2018,36953,Electric,Manual,1.8,Coupe,4,38026.72
+Nissan,Qashqai,2013,46862,Diesel,Manual,1.6,Sedan,4,22344.24
+Toyota,Prius,2013,135068,Hybrid,Automatic,1.4,Hatchback,5,7078.87
+Toyota,Corolla,2017,133779,Diesel,Manual,3.0,Hatchback,7,12863.01
+Volkswagen,Passat,2010,174408,Petrol,Manual,1.8,Sedan,4,-8370.24
+Toyota,RAV4,2005,204316,Diesel,Automatic,1.4,SUV,5,-19073.4
+Toyota,Camry,2021,181169,Diesel,Manual,3.0,Sedan,4,3751.86
+BMW,3 Series,2004,32567,Hybrid,Automatic,2.8,SUV,4,29735.67
+Nissan,Qashqai,2015,69480,Hybrid,Manual,2.4,Coupe,4,23460.73
+Audi,Q7,2008,201213,Petrol,Manual,1.4,Hatchback,4,-16745.3
+Toyota,RAV4,2007,121672,Petrol,Manual,1.4,Hatchback,4,-2272.49
+Volkswagen,Polo,2003,191009,Petrol,Automatic,1.6,SUV,7,-15372.87
+Volkswagen,Polo,2022,124736,Diesel,Manual,1.6,Sedan,4,13998.3
+Volkswagen,Passat,2012,12843,Petrol,Manual,2.0,Hatchback,4,22726.18
+Nissan,Altima,2010,105089,Diesel,Automatic,1.8,SUV,4,13663.19
+Honda,CR-V,2019,181775,Diesel,Automatic,2.8,Sedan,7,10794.33
+Nissan,Altima,2003,144814,Hybrid,Automatic,1.4,SUV,4,-197.75
+Ford,Fiesta,2015,30945,Petrol,Manual,2.8,Hatchback,7,26983.16
+Volkswagen,Tiguan,2013,47798,Diesel,Manual,3.0,Hatchback,5,21275.26
+Mercedes,GLE,2015,188253,Petrol,Manual,1.4,Sedan,4,10148.44
+Volkswagen,Passat,2005,215475,Hybrid,Automatic,2.4,Coupe,5,-13785.72
+Audi,A4,2023,166129,Petrol,Automatic,2.0,SUV,5,15307.96
+Audi,Q5,2008,23381,Petrol,Automatic,1.4,Sedan,5,27475.77
+Mercedes,C Class,2017,136984,Petrol,Manual,1.8,Sedan,4,15751.59
+Volkswagen,Tiguan,2019,182770,Hybrid,Manual,2.8,Hatchback,4,5961.04
+Audi,Q5,2010,141562,Petrol,Manual,3.0,SUV,4,12279.86
+Honda,CR-V,2005,131512,Diesel,Manual,1.8,SUV,4,-6039.54
+Volkswagen,Passat,2009,103884,Diesel,Manual,1.4,Sedan,5,9986.64
+Mercedes,GLE,2020,55378,Hybrid,Manual,1.6,Hatchback,5,32179.51
+Ford,Fiesta,2022,63207,Petrol,Automatic,2.8,Hatchback,4,30509.6
+Mercedes,GLC,2023,164557,Petrol,Automatic,2.0,Sedan,4,10272.45
+Nissan,Sentra,2007,17219,Petrol,Automatic,2.0,Coupe,2,22621.6
+Volkswagen,Golf,2016,20416,Petrol,Automatic,1.4,Sedan,5,25021.91
+Volkswagen,Tiguan,2006,88473,Diesel,Automatic,2.8,Sedan,4,13205.64
+BMW,3 Series,2018,170823,Petrol,Automatic,2.0,SUV,5,13166.49
+Volkswagen,Polo,2012,145233,Petrol,Manual,2.0,Hatchback,4,129.41
+BMW,X5,2018,130616,Petrol,Manual,2.8,Sedan,4,13000.51
+Audi,A4,2018,118440,Diesel,Manual,2.0,SUV,7,20698.5
+Audi,A4,2024,26143,Petrol,Manual,3.0,Sedan,4,40117.73
+Honda,CR-V,2013,74331,Diesel,Manual,2.0,SUV,4,20305.41
+Ford,Fiesta,2010,19332,Petrol,Automatic,1.8,Hatchback,5,23985.99
+Toyota,Camry,2014,167278,Electric,Automatic,3.0,Coupe,4,12471.48
+Honda,Accord,2006,165682,Diesel,Automatic,2.4,SUV,7,-3906.51
+BMW,5 Series,2005,58264,Petrol,Automatic,2.8,Hatchback,7,20056.73
+BMW,X3,2014,65860,Petrol,Automatic,1.6,SUV,5,34600.64
+Honda,Civic,2021,71205,Petrol,Manual,2.4,Sedan,2,27950.32
+BMW,X3,2014,195867,Petrol,Automatic,2.0,Sedan,4,-8474.14
+Mercedes,E Class,2020,108498,Petrol,Automatic,1.4,Coupe,5,24573.06
+Honda,CR-V,2006,168131,Hybrid,Automatic,1.6,Sedan,4,-1380.8
+Ford,Focus,2012,99844,Diesel,Manual,3.0,Hatchback,7,10944.63
+Ford,Fiesta,2016,154205,Petrol,Manual,2.0,Sedan,5,-329.19
+Mercedes,GLE,2010,117175,Diesel,Automatic,2.8,Hatchback,4,15954.21
+Ford,Fiesta,2003,62736,Petrol,Manual,1.6,Sedan,4,6274.53
+Audi,A3,2004,193033,Electric,Manual,1.6,Coupe,5,-7221.04
+Ford,Mustang,2023,156549,Petrol,Manual,3.0,Hatchback,4,12624.98
+BMW,3 Series,2016,169715,Diesel,Manual,1.8,Sedan,4,6172.12
+BMW,5 Series,2008,208696,Hybrid,Manual,3.0,Hatchback,5,-6357.36
+Honda,Accord,2008,56231,Petrol,Automatic,2.8,Hatchback,4,20276.34
+Audi,Q5,2003,21960,Petrol,Automatic,1.8,Sedan,4,16402.78
+Honda,CR-V,2023,128935,Petrol,Automatic,3.0,Sedan,5,17115.03
+Ford,Mustang,2005,73103,Hybrid,Manual,2.8,Hatchback,5,8912.1
+Volkswagen,Polo,2019,96999,Diesel,Manual,1.4,Hatchback,4,20800.79
+Nissan,Altima,2008,53158,Diesel,Manual,1.4,Sedan,7,10839.49
+Audi,A4,2010,88866,Hybrid,Manual,1.4,Coupe,7,11008.23
+Nissan,Altima,2009,87728,Hybrid,Manual,2.8,Sedan,4,11147.15
+Volkswagen,Golf,2021,78421,Diesel,Automatic,1.6,Sedan,4,24541.98
+BMW,3 Series,2003,163828,Diesel,Automatic,1.6,SUV,5,3020.03
+Volkswagen,Tiguan,2010,131198,Diesel,Manual,2.0,Sedan,4,9769.29
+Ford,Explorer,2009,105384,Petrol,Manual,1.4,Sedan,5,6332.95
+BMW,X3,2009,26571,Hybrid,Manual,1.8,SUV,4,30918.57
+Mercedes,GLC,2007,126419,Petrol,Manual,2.4,Sedan,4,5192.05
+Nissan,Qashqai,2023,40154,Petrol,Manual,3.0,Sedan,4,36469.17
+Volkswagen,Golf,2011,70485,Hybrid,Manual,2.0,Hatchback,4,13833.3
+BMW,X3,2012,92449,Petrol,Manual,2.8,SUV,7,19153.08
+Audi,Q7,2011,32801,Petrol,Manual,2.0,Hatchback,4,22461.18
+Honda,Civic,2024,86908,Petrol,Automatic,2.0,SUV,7,23549.24
+Volkswagen,Passat,2010,60191,Diesel,Manual,2.0,SUV,2,16177.56
+Mercedes,GLE,2010,187248,Hybrid,Manual,3.0,Sedan,5,4549.41
+Mercedes,E Class,2010,189410,Petrol,Manual,1.4,Hatchback,7,-1655.7
+Volkswagen,Polo,2010,2995,Petrol,Manual,2.0,Sedan,4,22519.02
+Audi,Q7,2004,133326,Diesel,Manual,1.4,Sedan,4,-3654.55
+Toyota,Camry,2016,141640,Electric,Automatic,3.0,Hatchback,5,10672.73
+Ford,Focus,2003,84401,Petrol,Automatic,2.4,Hatchback,5,5278.44
+Honda,Accord,2007,104268,Electric,Manual,1.4,Hatchback,4,6764.16
+Audi,A3,2007,174199,Hybrid,Manual,2.4,Sedan,4,-1329.62
+Toyota,Camry,2009,84395,Petrol,Manual,2.0,Sedan,5,7913.04
+Honda,CR-V,2019,16051,Hybrid,Manual,1.4,SUV,4,35753.98
+Mercedes,E Class,2016,83206,Diesel,Manual,3.0,Hatchback,4,30972.67
+Audi,A3,2024,57348,Diesel,Automatic,1.8,SUV,4,35980.9
+Mercedes,E Class,2010,85433,Petrol,Manual,1.4,Sedan,4,15406.55
+Volkswagen,Tiguan,2023,52162,Hybrid,Manual,2.4,Sedan,5,34577.31
+Nissan,Altima,2003,34672,Hybrid,Manual,1.8,SUV,4,14475.47
+Honda,Civic,2014,216809,Hybrid,Manual,2.4,Hatchback,7,-6375.64
+Nissan,Qashqai,2020,30093,Electric,Automatic,1.6,Sedan,4,34461.67
+Mercedes,C Class,2014,155929,Diesel,Manual,2.8,Sedan,4,7836.64
+Audi,A4,2023,158431,Hybrid,Manual,1.8,Sedan,4,16421.62
+Toyota,Corolla,2009,136677,Hybrid,Manual,1.8,Sedan,4,2799.08
+Mercedes,C Class,2003,200697,Petrol,Automatic,2.8,SUV,5,-549.19
+Audi,A4,2020,3086,Petrol,Manual,2.0,Sedan,5,34646.48
+Mercedes,GLC,2004,67755,Petrol,Manual,1.4,Hatchback,5,12136.01
+Toyota,Corolla,2019,42179,Hybrid,Manual,2.4,Hatchback,4,33929.33
+Mercedes,C Class,2019,127769,Petrol,Manual,2.4,Coupe,4,27049.58
+Nissan,Altima,2021,140548,Diesel,Automatic,1.8,Coupe,4,17897.77
+Audi,Q5,2013,197742,Petrol,Manual,1.6,Sedan,5,-7860.19
+Honda,Fit,2022,84778,Petrol,Manual,1.4,Sedan,4,19983.33
+Nissan,Altima,2006,53425,Diesel,Manual,2.8,Sedan,4,13237.43
+Nissan,Sentra,2012,203493,Petrol,Manual,1.4,Hatchback,4,-12920.26
+Honda,Accord,2005,148711,Hybrid,Manual,2.4,Sedan,4,-4239.07
+Volkswagen,Passat,2019,168709,Petrol,Automatic,2.8,SUV,5,4349.26
+BMW,3 Series,2018,99005,Hybrid,Manual,1.8,Sedan,4,21476.64
+Mercedes,C Class,2020,99529,Petrol,Manual,1.6,Sedan,7,25097.11
+BMW,X5,2019,86812,Electric,Manual,2.8,Hatchback,4,31095.44
+Volkswagen,Passat,2009,165394,Diesel,Automatic,2.4,Hatchback,4,-681.49
+Nissan,Sentra,2004,47914,Petrol,Manual,1.4,SUV,4,11467.8
+Volkswagen,Passat,2023,214638,Petrol,Manual,2.4,Coupe,5,1859.65
+Nissan,Qashqai,2013,40351,Petrol,Manual,1.4,Sedan,4,19131.26
+Nissan,Juke,2005,102493,Diesel,Manual,1.8,Sedan,4,1172.28
+Toyota,Camry,2023,70585,Hybrid,Automatic,1.8,SUV,5,32859.95
+Ford,Focus,2024,142070,Petrol,Manual,2.8,Hatchback,4,17305.83
+Audi,Q7,2012,150390,Petrol,Manual,3.0,SUV,4,10784.3
+Mercedes,GLE,2019,202268,Diesel,Manual,2.4,Sedan,4,7127.96
+Toyota,Corolla,2003,174049,Diesel,Manual,2.8,Coupe,4,-5999.59
+Toyota,RAV4,2005,56211,Diesel,Manual,1.4,Sedan,5,10184.71
+Mercedes,GLC,2009,47051,Diesel,Manual,1.4,SUV,5,24537.68
+Mercedes,C Class,2017,195269,Diesel,Manual,2.8,Hatchback,5,7519.35
+Honda,Fit,2005,108355,Electric,Automatic,1.8,Coupe,5,8977.81
+Honda,Civic,2003,23264,Petrol,Automatic,2.0,Hatchback,5,15446.83
+Honda,Civic,2017,181843,Petrol,Manual,2.4,Coupe,4,-1161.39
+Mercedes,C Class,2019,143361,Petrol,Automatic,1.8,Sedan,4,16740.66
+Toyota,Camry,2019,7574,Diesel,Automatic,2.4,Hatchback,4,38306.1
+Mercedes,GLC,2020,172658,Petrol,Manual,2.8,Hatchback,7,11543.43
+BMW,5 Series,2020,134407,Electric,Manual,1.6,SUV,7,16879.93
+BMW,3 Series,2016,135984,Diesel,Manual,2.4,SUV,5,19112.07
+Audi,A3,2014,190556,Diesel,Manual,1.6,Coupe,4,1884.51
+Mercedes,GLE,2021,110026,Hybrid,Manual,1.8,Sedan,4,22116.98
+Audi,Q7,2010,102555,Petrol,Manual,2.8,SUV,5,19214.56
+Volkswagen,Polo,2005,136581,Hybrid,Automatic,3.0,Coupe,4,1440.46
+Nissan,Altima,2019,45116,Petrol,Manual,1.4,Coupe,4,27124.42
+Volkswagen,Polo,2009,35062,Diesel,Automatic,2.4,Coupe,4,24105.27
+Mercedes,GLC,2024,185943,Electric,Manual,2.0,Coupe,4,11969.89
+BMW,X5,2012,48994,Hybrid,Manual,2.4,Sedan,5,28751.73
+Honda,Civic,2021,111947,Hybrid,Automatic,2.8,Coupe,7,23949.72
+Mercedes,GLE,2003,60838,Petrol,Manual,1.4,SUV,5,14467.24
+Honda,Accord,2017,52239,Hybrid,Manual,2.8,Hatchback,4,24236.26
+Nissan,Altima,2012,132315,Diesel,Manual,1.6,SUV,4,4776.21
+Volkswagen,Golf,2013,176914,Diesel,Automatic,1.6,Hatchback,7,-3797.12
+Toyota,Camry,2008,98334,Petrol,Manual,2.0,SUV,4,2658.47
+Volkswagen,Golf,2024,32242,Petrol,Manual,1.4,Hatchback,4,32367.06
+Toyota,Camry,2011,55295,Diesel,Manual,2.4,Sedan,5,18664.96
+Audi,A4,2021,37877,Petrol,Manual,2.0,Sedan,4,30539.95
+Toyota,RAV4,2012,194452,Diesel,Manual,2.0,SUV,4,-6912.32
+BMW,3 Series,2004,71657,Hybrid,Manual,1.4,Sedan,5,16368.08
+Audi,Q5,2022,83514,Electric,Manual,2.8,Hatchback,4,28812.5
+Audi,Q7,2007,17486,Petrol,Manual,1.4,Sedan,4,22581.28
+BMW,X3,2008,99234,Electric,Manual,1.6,SUV,4,16370.2
+Nissan,Qashqai,2021,201235,Petrol,Automatic,1.8,Sedan,7,-1803.64
+Volkswagen,Golf,2022,91314,Diesel,Manual,2.4,Sedan,4,18132.09
+Honda,Fit,2023,143971,Hybrid,Manual,1.8,Hatchback,4,10500.2
+Audi,Q7,2012,41663,Petrol,Manual,2.8,Sedan,4,26528.86
+Audi,A4,2019,33160,Petrol,Automatic,3.0,Sedan,7,38684.2
+Ford,Fiesta,2010,161494,Petrol,Manual,2.8,Sedan,5,-5682.82
+Audi,Q5,2019,16330,Diesel,Manual,1.4,Sedan,4,34669.61
+Nissan,Sentra,2014,99763,Hybrid,Manual,2.8,Hatchback,4,17185.71
+Volkswagen,Passat,2004,71041,Petrol,Manual,1.6,Sedan,5,-207.79
+Volkswagen,Polo,2012,5544,Petrol,Manual,3.0,SUV,5,31082.02
+Audi,Q7,2013,117802,Diesel,Manual,3.0,Hatchback,5,12253.13
+Ford,Fiesta,2008,212154,Petrol,Manual,1.4,SUV,7,-18456.31
+Volkswagen,Polo,2011,17074,Diesel,Manual,1.4,SUV,4,25761.92
+Ford,Fiesta,2014,179836,Electric,Automatic,2.4,Sedan,4,2384.72
+Mercedes,GLE,2004,119541,Hybrid,Automatic,1.6,Coupe,4,7988.85
+Ford,Mustang,2006,159735,Hybrid,Manual,3.0,SUV,5,4685.41
+Ford,Fiesta,2019,23047,Diesel,Automatic,2.0,Sedan,4,34395.83
+Honda,Civic,2010,191462,Hybrid,Automatic,2.4,Coupe,4,-6946.54
+Nissan,Juke,2016,4488,Petrol,Automatic,3.0,Hatchback,5,28273.99
+Honda,Accord,2015,199683,Petrol,Automatic,1.6,Hatchback,4,-4543.88
+Toyota,Corolla,2015,145401,Diesel,Manual,2.0,Coupe,5,6516.22
+Nissan,Altima,2012,75572,Petrol,Manual,3.0,Sedan,4,19798.88
+Mercedes,GLE,2013,3548,Hybrid,Manual,1.4,Hatchback,4,37033.64
+BMW,3 Series,2021,135188,Diesel,Manual,1.6,Hatchback,4,16424.45
+Audi,Q7,2024,21060,Electric,Manual,1.6,SUV,5,43139.24
+BMW,X3,2008,134720,Petrol,Manual,1.8,Sedan,5,5423.01
+Honda,Civic,2017,170545,Diesel,Manual,1.4,Sedan,4,-3680.54
+Audi,Q5,2024,60271,Diesel,Automatic,1.6,Coupe,4,40528.0
+Honda,CR-V,2003,54041,Petrol,Automatic,2.8,Sedan,4,14923.46
+Mercedes,E Class,2020,50385,Diesel,Manual,2.0,Sedan,5,31591.24
+Nissan,Juke,2013,51014,Diesel,Manual,1.8,Hatchback,7,20692.45
+Nissan,Sentra,2024,26831,Electric,Manual,1.8,Hatchback,5,43343.3
+Ford,Fiesta,2015,56434,Diesel,Automatic,3.0,Sedan,4,24145.51
+Volkswagen,Passat,2021,145730,Petrol,Automatic,2.0,Hatchback,4,11129.92
+Mercedes,GLE,2006,67948,Diesel,Manual,2.0,SUV,4,19687.51
+BMW,X5,2006,172240,Diesel,Manual,3.0,Hatchback,2,-630.07
+Honda,Accord,2023,180605,Petrol,Manual,1.4,Sedan,4,-2632.05
+BMW,X3,2014,167887,Petrol,Automatic,2.0,Sedan,4,6078.65
+Audi,Q7,2015,119617,Petrol,Automatic,2.8,Hatchback,4,16708.39
+Nissan,Qashqai,2006,70948,Petrol,Manual,2.0,Sedan,5,13386.15
+Toyota,Prius,2007,204716,Diesel,Manual,3.0,SUV,4,-12392.89
+Audi,A4,2021,46746,Petrol,Manual,3.0,Sedan,5,33586.89
+Volkswagen,Polo,2009,103262,Diesel,Manual,1.8,Hatchback,7,9734.82
+Nissan,Sentra,2015,100887,Petrol,Automatic,2.8,Coupe,4,15966.67
+BMW,5 Series,2009,164538,Diesel,Automatic,1.6,Hatchback,4,1234.87
+Toyota,Camry,2008,121205,Petrol,Manual,1.6,Coupe,5,-183.33
+Ford,Explorer,2006,176294,Hybrid,Manual,3.0,Coupe,4,-6717.26
+Volkswagen,Tiguan,2023,202360,Petrol,Manual,1.4,SUV,4,-5267.53
+Nissan,Sentra,2023,87156,Diesel,Manual,1.8,SUV,4,21798.43
+Audi,A4,2005,192711,Petrol,Manual,2.4,Coupe,5,-9353.92
+Toyota,Camry,2010,38990,Petrol,Automatic,1.8,Coupe,5,22459.52
+Toyota,Prius,2015,201700,Diesel,Automatic,2.8,Coupe,5,-426.54
+BMW,5 Series,2011,40801,Hybrid,Manual,1.6,Hatchback,5,23821.13
+Mercedes,GLC,2018,187357,Hybrid,Automatic,2.0,Sedan,4,10228.68
+Toyota,Camry,2008,87073,Petrol,Automatic,1.4,Coupe,5,10272.73
+Audi,A4,2004,212278,Petrol,Manual,1.6,Coupe,5,-14701.31
+Mercedes,GLE,2010,30164,Diesel,Manual,1.6,Hatchback,4,23072.76
+Toyota,Camry,2016,103478,Diesel,Manual,2.8,Coupe,7,18948.41
+Toyota,Corolla,2006,198609,Petrol,Automatic,1.6,SUV,5,-6433.67
+BMW,5 Series,2020,12349,Hybrid,Manual,2.4,Coupe,4,43988.27
+Audi,Q5,2003,59773,Diesel,Manual,1.8,Sedan,4,11989.43
+Volkswagen,Golf,2004,20216,Diesel,Manual,2.0,Coupe,4,18467.05
+BMW,5 Series,2014,72037,Petrol,Manual,3.0,Sedan,5,17571.32
+Ford,Focus,2014,87080,Petrol,Manual,3.0,Sedan,4,13779.51
+Nissan,Juke,2009,136918,Petrol,Automatic,1.4,Sedan,4,-2426.37
+BMW,X5,2008,58175,Hybrid,Manual,2.8,SUV,4,23741.43
+Ford,Explorer,2004,36593,Petrol,Manual,3.0,Sedan,5,12106.55
+BMW,5 Series,2017,39047,Hybrid,Automatic,2.4,Coupe,5,37358.79
+Toyota,RAV4,2011,206572,Hybrid,Manual,1.6,SUV,5,-2507.09
+Ford,Focus,2005,209798,Diesel,Manual,2.4,Coupe,4,-10669.05
+Mercedes,GLE,2011,50266,Petrol,Manual,2.4,Sedan,4,22382.12
+Nissan,Juke,2023,44601,Petrol,Manual,2.4,Sedan,5,27213.97
+Audi,Q7,2008,13814,Diesel,Manual,2.0,Hatchback,4,24737.19
+Volkswagen,Polo,2022,211144,Diesel,Automatic,2.0,Hatchback,4,2884.63
+Mercedes,GLC,2008,155940,Hybrid,Manual,2.4,SUV,7,10996.42
+Toyota,Camry,2007,167862,Petrol,Manual,2.0,Hatchback,4,-8318.23
+BMW,X5,2008,65345,Hybrid,Manual,2.8,Hatchback,4,23353.94
+Nissan,Qashqai,2010,141726,Petrol,Automatic,2.4,SUV,5,2980.8
+Toyota,RAV4,2005,15038,Petrol,Manual,1.8,Coupe,5,23857.6
+Nissan,Qashqai,2015,149372,Petrol,Automatic,2.4,Hatchback,4,4007.46
+Audi,A3,2010,128365,Diesel,Manual,2.8,Hatchback,4,7155.38
+Ford,Mustang,2018,74261,Petrol,Manual,2.0,SUV,4,19198.17
+Volkswagen,Golf,2013,156882,Petrol,Manual,2.8,Sedan,4,5103.41
+Volkswagen,Tiguan,2012,142921,Hybrid,Manual,1.4,Sedan,4,713.77
+Toyota,RAV4,2013,97701,Diesel,Manual,1.8,Hatchback,4,13652.4
+Toyota,Corolla,2006,42698,Petrol,Automatic,2.4,Hatchback,5,14813.25
+Audi,Q5,2018,7137,Petrol,Manual,3.0,Sedan,2,35865.22
+Nissan,Qashqai,2005,206419,Diesel,Manual,2.4,Hatchback,4,-13744.71
+Toyota,RAV4,2018,63336,Petrol,Manual,2.4,Sedan,4,19502.81
+Audi,A4,2024,67790,Petrol,Manual,1.8,Sedan,4,32229.93
+Honda,Civic,2019,150472,Diesel,Manual,2.4,Coupe,2,11340.24
+Audi,Q7,2013,57630,Petrol,Manual,1.8,SUV,4,21531.1
+Mercedes,GLE,2009,83914,Diesel,Manual,1.4,Sedan,7,16666.86
+Toyota,Prius,2022,157033,Petrol,Manual,1.6,SUV,7,8277.98
+Audi,Q7,2008,131791,Petrol,Manual,2.4,SUV,5,9594.34
+Nissan,Altima,2013,145105,Petrol,Manual,3.0,Hatchback,4,8422.05
+Volkswagen,Tiguan,2019,3018,Petrol,Manual,2.0,Coupe,5,32670.51
+Toyota,Corolla,2023,100383,Petrol,Manual,3.0,SUV,5,26639.14
+Honda,Fit,2023,105608,Petrol,Automatic,2.8,SUV,4,25168.77
+Honda,CR-V,2004,139873,Hybrid,Manual,2.0,SUV,2,199.84
+BMW,X3,2022,35017,Hybrid,Automatic,2.8,SUV,5,45568.28
+Honda,CR-V,2005,36769,Petrol,Manual,1.8,Sedan,7,10937.84
+Volkswagen,Golf,2015,168210,Diesel,Manual,2.0,Sedan,4,1394.65
+Volkswagen,Golf,2023,148785,Diesel,Manual,2.8,Coupe,4,14294.73
+Volkswagen,Passat,2017,178837,Hybrid,Manual,2.4,SUV,4,3013.98
+Honda,CR-V,2023,60993,Petrol,Automatic,2.0,SUV,4,33966.61
+Toyota,Corolla,2010,219477,Petrol,Automatic,2.0,Sedan,5,-11289.03
+Nissan,Qashqai,2009,61478,Petrol,Manual,3.0,Hatchback,4,13104.04
+Ford,Focus,2010,143909,Petrol,Manual,1.4,Sedan,7,484.56
+Audi,A4,2010,37355,Petrol,Manual,1.4,SUV,5,18400.64
+Nissan,Altima,2018,202233,Hybrid,Manual,2.0,Hatchback,2,771.09
+Toyota,Camry,2012,74458,Hybrid,Automatic,1.4,SUV,5,17980.96
+Toyota,Camry,2019,176940,Petrol,Manual,1.8,Coupe,5,3627.7
+Toyota,Corolla,2012,74212,Diesel,Manual,2.0,Sedan,4,13660.04
+Honda,CR-V,2009,174404,Petrol,Automatic,1.8,Hatchback,4,-9646.32
+Toyota,RAV4,2007,101011,Diesel,Automatic,1.6,Coupe,5,13622.46
+Volkswagen,Polo,2015,15623,Diesel,Manual,1.6,SUV,4,35327.75
+Mercedes,E Class,2022,43511,Petrol,Manual,2.4,Hatchback,4,34760.1
+Nissan,Qashqai,2021,150989,Hybrid,Automatic,3.0,SUV,4,19295.5
+Volkswagen,Polo,2008,44075,Electric,Manual,2.8,Hatchback,4,22148.87
+Nissan,Qashqai,2013,62019,Diesel,Manual,2.0,Coupe,5,24674.2
+Honda,Accord,2018,120099,Diesel,Manual,1.4,Hatchback,4,2620.1
+Ford,Explorer,2016,57164,Diesel,Automatic,1.6,Coupe,4,24417.28
+Volkswagen,Tiguan,2004,30095,Petrol,Automatic,2.0,SUV,4,16356.1
+Honda,Civic,2016,138096,Petrol,Automatic,1.6,SUV,5,2003.64
+Toyota,Camry,2003,152179,Diesel,Manual,2.4,Sedan,4,-6545.92
+Audi,Q5,2005,161804,Petrol,Manual,1.8,Hatchback,7,1089.04
+Volkswagen,Golf,2017,207780,Hybrid,Manual,2.8,Coupe,7,-599.76
+Nissan,Sentra,2005,29139,Petrol,Automatic,1.6,Hatchback,4,16785.43
+Nissan,Qashqai,2010,95041,Petrol,Manual,2.0,Sedan,5,10728.37
+Toyota,Corolla,2015,53011,Petrol,Manual,2.8,SUV,4,25417.39
+Volkswagen,Passat,2017,198440,Electric,Automatic,1.6,Hatchback,5,1666.26
+Volkswagen,Golf,2012,119674,Petrol,Manual,2.8,Coupe,4,3266.53
+Audi,Q5,2005,23433,Petrol,Automatic,2.4,Sedan,4,22390.34
+Volkswagen,Golf,2020,152888,Petrol,Manual,2.4,Sedan,4,9882.58
+Volkswagen,Polo,2023,11364,Diesel,Automatic,2.0,SUV,4,41148.65
+BMW,3 Series,2022,61769,Electric,Manual,3.0,Sedan,5,40357.07
+Toyota,RAV4,2019,159258,Petrol,Manual,2.8,Coupe,5,9559.66
+BMW,X3,2011,112309,Hybrid,Manual,1.6,SUV,2,22698.79
+Honda,Fit,2022,167902,Petrol,Manual,2.0,SUV,4,6799.98
+Toyota,RAV4,2013,126519,Diesel,Manual,3.0,Sedan,4,15163.89
+Toyota,Corolla,2006,185786,Petrol,Manual,1.6,SUV,4,-9714.27
+Audi,Q7,2021,124639,Diesel,Manual,2.0,Coupe,4,26286.42
+Mercedes,GLC,2010,14386,Diesel,Automatic,2.8,SUV,4,35190.59
+Mercedes,GLE,2023,17535,Diesel,Manual,1.6,Sedan,5,42234.59
+Audi,Q7,2011,171365,Petrol,Automatic,2.0,Sedan,4,994.5
+Mercedes,GLC,2022,10415,Hybrid,Automatic,2.0,Coupe,5,49571.61
+Audi,A4,2014,84085,Electric,Manual,1.6,Coupe,4,28776.3
+Toyota,Corolla,2013,5510,Diesel,Automatic,1.6,Sedan,4,31220.39
+Volkswagen,Golf,2009,68127,Diesel,Manual,2.0,Hatchback,4,15842.36
+BMW,5 Series,2021,131739,Hybrid,Manual,1.6,Sedan,4,16642.27
+Honda,Fit,2004,39719,Petrol,Manual,3.0,SUV,4,15417.51
+Volkswagen,Tiguan,2013,103609,Hybrid,Automatic,2.0,Sedan,7,14901.92
+Audi,A4,2011,219131,Petrol,Manual,2.4,Hatchback,5,-8467.27
+Toyota,Corolla,2014,17367,Hybrid,Manual,1.8,Coupe,5,30079.19
+Honda,CR-V,2008,15878,Petrol,Automatic,1.8,Sedan,4,18874.34
+Toyota,Prius,2017,61132,Petrol,Manual,2.0,SUV,2,26831.93
+Ford,Explorer,2011,182287,Diesel,Automatic,2.4,Sedan,4,-4372.74
+Toyota,Prius,2007,90463,Diesel,Automatic,1.8,Sedan,7,15080.11
+Audi,Q5,2007,141409,Hybrid,Automatic,1.6,Sedan,5,6587.16
+Mercedes,GLE,2018,9383,Electric,Automatic,1.6,Sedan,4,47086.03
+Nissan,Sentra,2008,162247,Petrol,Automatic,2.0,Coupe,7,-619.79
+Audi,Q7,2009,16698,Petrol,Manual,2.4,Sedan,4,24456.68
+Mercedes,E Class,2016,157154,Petrol,Automatic,2.0,Coupe,4,14787.33
+Mercedes,C Class,2010,34246,Diesel,Automatic,1.6,Sedan,4,35306.39
+Toyota,Camry,2011,189138,Diesel,Manual,1.6,SUV,4,-3639.68
+Toyota,Corolla,2008,66556,Hybrid,Manual,1.8,SUV,7,20704.01
+Mercedes,C Class,2010,42066,Hybrid,Automatic,1.8,Coupe,5,34246.59
+Toyota,RAV4,2018,75401,Petrol,Manual,1.6,Sedan,4,18710.38
+Toyota,RAV4,2014,2179,Diesel,Manual,3.0,Sedan,4,33904.51
+Honda,Civic,2024,37996,Diesel,Manual,1.8,Hatchback,4,32512.13
+Nissan,Qashqai,2019,132479,Diesel,Manual,1.6,Hatchback,4,10096.28
+BMW,3 Series,2003,67569,Petrol,Automatic,2.4,Hatchback,4,10110.66
+Audi,A4,2011,79141,Petrol,Manual,2.8,Sedan,4,19645.99
+BMW,X5,2009,177976,Petrol,Automatic,2.0,Sedan,4,-824.73
+Honda,Accord,2015,28985,Petrol,Automatic,2.4,Hatchback,4,25429.81
+Ford,Mustang,2008,88304,Hybrid,Manual,1.4,Hatchback,4,10452.37
+Toyota,RAV4,2024,42578,Petrol,Automatic,2.0,Hatchback,7,29889.89
+Volkswagen,Golf,2009,107260,Diesel,Manual,1.4,Sedan,4,-370.06
+Honda,Civic,2014,74321,Diesel,Automatic,1.4,Sedan,4,19968.51
+BMW,X3,2005,12077,Hybrid,Automatic,2.4,Coupe,4,27980.88
+Nissan,Juke,2023,17310,Petrol,Manual,1.6,Hatchback,5,24214.78
+Mercedes,GLC,2023,187808,Petrol,Automatic,1.4,Sedan,4,13701.02
+BMW,5 Series,2020,14407,Petrol,Manual,1.6,Coupe,4,37814.65
+Mercedes,E Class,2010,172630,Petrol,Manual,2.8,SUV,5,8139.3
+Volkswagen,Tiguan,2004,201693,Petrol,Automatic,2.4,Sedan,5,-15020.51
+Ford,Mustang,2018,103546,Hybrid,Manual,1.8,SUV,4,13131.62
+Audi,A3,2012,70038,Petrol,Manual,3.0,Hatchback,4,17198.64
+Volkswagen,Tiguan,2024,171237,Petrol,Manual,1.8,SUV,7,8006.34
+Mercedes,GLC,2018,216126,Petrol,Manual,3.0,SUV,4,2325.63
+BMW,3 Series,2014,28253,Hybrid,Automatic,1.8,Hatchback,4,34097.03
+Honda,Accord,2024,212232,Hybrid,Manual,1.4,Sedan,4,-581.63
+Honda,Fit,2020,207734,Diesel,Manual,1.4,Coupe,4,-1200.0
+Nissan,Juke,2013,33080,Diesel,Manual,1.6,SUV,4,24442.07
+Mercedes,C Class,2003,13932,Diesel,Automatic,1.6,SUV,5,30730.0
+Ford,Focus,2005,157853,Diesel,Manual,1.6,Hatchback,4,-8415.2
+BMW,X5,2012,18931,Petrol,Manual,1.8,Hatchback,4,25991.94
+Mercedes,E Class,2015,132975,Diesel,Manual,3.0,SUV,4,21053.2
+Mercedes,GLE,2003,16116,Hybrid,Manual,1.6,Hatchback,5,25354.35
+Audi,Q5,2005,152561,Petrol,Automatic,1.6,Coupe,2,-7333.43
+Ford,Explorer,2018,52511,Diesel,Manual,3.0,Hatchback,4,26916.9
+Audi,A3,2019,22969,Diesel,Manual,1.6,Hatchback,5,34045.4
+BMW,5 Series,2003,16522,Diesel,Automatic,2.8,Sedan,4,29431.0
+Nissan,Altima,2014,43106,Petrol,Manual,2.4,SUV,4,19523.02
+Honda,CR-V,2004,119883,Diesel,Manual,3.0,SUV,4,4410.59
+Honda,Civic,2018,18707,Hybrid,Manual,2.0,Sedan,5,28839.85
+BMW,5 Series,2021,176895,Petrol,Manual,2.4,Hatchback,4,10941.62
+Mercedes,E Class,2022,133701,Petrol,Automatic,1.6,Sedan,5,15937.45
+Audi,A3,2016,66811,Petrol,Automatic,2.4,Sedan,5,24002.32
+BMW,3 Series,2016,217076,Petrol,Automatic,2.4,Sedan,4,1936.13
+Nissan,Juke,2023,145561,Electric,Automatic,3.0,Sedan,4,18685.02
+BMW,X3,2016,148492,Diesel,Manual,1.4,Sedan,5,6200.59
+Honda,Civic,2012,39920,Petrol,Manual,1.6,Hatchback,4,20115.9
+Toyota,Camry,2019,156946,Petrol,Manual,1.4,SUV,7,9782.4
+Nissan,Altima,2015,123904,Electric,Automatic,2.8,Sedan,5,19307.91
+Honda,Fit,2021,216639,Petrol,Automatic,1.4,Sedan,4,-979.15
+Nissan,Sentra,2014,106203,Diesel,Manual,3.0,Hatchback,5,11542.41
+Ford,Explorer,2022,149806,Petrol,Automatic,1.8,Sedan,4,8280.22
+Toyota,Corolla,2003,76366,Petrol,Automatic,1.8,SUV,4,7780.26
+Ford,Focus,2003,10759,Diesel,Automatic,3.0,SUV,4,25600.11
+Mercedes,GLC,2005,29885,Petrol,Automatic,2.8,SUV,4,28331.43
+BMW,X5,2015,191007,Diesel,Manual,2.0,Coupe,5,2832.93
+Volkswagen,Polo,2018,162910,Petrol,Manual,3.0,Hatchback,5,6295.88
+Mercedes,GLE,2007,81499,Diesel,Manual,2.8,Coupe,4,24720.71
+BMW,X3,2006,154125,Hybrid,Manual,2.4,Coupe,4,6731.93
+Audi,Q5,2021,2951,Diesel,Automatic,1.8,Sedan,5,48710.63
+Nissan,Sentra,2019,10105,Petrol,Manual,3.0,Sedan,5,31023.45
+BMW,5 Series,2017,112577,Diesel,Manual,2.8,Sedan,4,14654.62
+Honda,Civic,2013,138242,Electric,Manual,3.0,SUV,4,16703.25
+BMW,5 Series,2012,206269,Petrol,Manual,3.0,SUV,5,-1498.29
+Volkswagen,Passat,2003,167605,Petrol,Manual,2.0,Sedan,4,-13044.72
+Honda,Civic,2007,58098,Hybrid,Manual,1.8,Sedan,4,8879.01
+Nissan,Altima,2022,179699,Petrol,Automatic,3.0,SUV,4,7576.71
+Mercedes,GLC,2010,109149,Diesel,Manual,3.0,Hatchback,4,11646.05
+Mercedes,E Class,2018,182074,Hybrid,Manual,1.4,Hatchback,2,5636.91
+Ford,Explorer,2018,39883,Petrol,Manual,2.4,Coupe,4,25058.5
+Nissan,Sentra,2009,7717,Diesel,Manual,2.4,Sedan,5,24998.81
+Toyota,RAV4,2007,14577,Diesel,Automatic,2.8,SUV,7,33943.25
+Ford,Mustang,2018,218012,Petrol,Automatic,3.0,Coupe,4,623.94
+BMW,3 Series,2005,19558,Hybrid,Manual,1.6,Hatchback,4,18388.62
+BMW,3 Series,2013,206779,Petrol,Automatic,3.0,SUV,5,6125.43
+BMW,X5,2022,160488,Petrol,Automatic,2.4,SUV,4,18969.78
+Honda,CR-V,2018,33836,Hybrid,Manual,1.4,Sedan,7,27896.48
+Honda,Accord,2019,190368,Petrol,Manual,2.0,Coupe,4,361.12
+Toyota,Prius,2004,33437,Hybrid,Manual,1.4,Hatchback,4,15235.91
+Mercedes,GLE,2007,33239,Petrol,Automatic,3.0,SUV,4,29602.94
+Ford,Fiesta,2009,127463,Diesel,Manual,2.8,SUV,4,5873.14
+Mercedes,C Class,2009,64853,Petrol,Manual,3.0,SUV,5,29515.07
+Mercedes,E Class,2007,65399,Diesel,Automatic,2.4,Sedan,4,20975.68
+Audi,Q7,2024,44516,Hybrid,Automatic,1.8,Hatchback,5,35591.48
+Mercedes,GLE,2006,134474,Hybrid,Automatic,1.8,SUV,5,12597.22
+Audi,Q7,2018,7854,Electric,Automatic,3.0,Sedan,5,43568.47
+Mercedes,GLE,2015,55426,Diesel,Manual,1.6,SUV,5,24910.41
+Audi,A3,2016,122648,Hybrid,Automatic,3.0,Coupe,4,22721.07
+Mercedes,E Class,2007,108066,Diesel,Manual,1.8,SUV,4,18783.71
+Ford,Focus,2009,154583,Hybrid,Manual,2.4,SUV,5,2151.53
+Honda,Civic,2016,49141,Diesel,Automatic,2.4,Hatchback,4,26326.07
+Volkswagen,Polo,2009,143237,Hybrid,Manual,1.4,Hatchback,4,-8499.13
+Ford,Explorer,2018,167667,Petrol,Manual,1.6,Hatchback,4,-478.06
+Mercedes,C Class,2003,86595,Diesel,Manual,1.6,Coupe,4,13111.67
+Honda,CR-V,2004,57984,Diesel,Manual,2.8,Sedan,5,11235.15
+BMW,X5,2019,122992,Petrol,Manual,1.4,Coupe,4,16837.6
+Mercedes,C Class,2016,128191,Petrol,Manual,2.4,Coupe,5,18370.01
+Audi,Q7,2003,22513,Electric,Automatic,1.4,SUV,7,26057.3
+Mercedes,GLE,2022,125194,Petrol,Automatic,2.8,Hatchback,4,25427.01
+Ford,Mustang,2003,35638,Petrol,Manual,3.0,Sedan,5,17615.99
+Nissan,Juke,2024,126004,Petrol,Manual,1.8,SUV,2,14789.87
+Mercedes,E Class,2019,205131,Petrol,Automatic,1.6,Sedan,4,1900.12
+Volkswagen,Polo,2024,119081,Diesel,Manual,2.0,Sedan,4,16697.16
+Audi,A4,2023,168008,Electric,Manual,2.4,Coupe,4,22993.32
+Mercedes,GLE,2009,69515,Electric,Manual,2.8,Sedan,4,23363.08
+Nissan,Altima,2019,203157,Diesel,Manual,2.4,SUV,4,2983.13
+Honda,Civic,2007,179181,Diesel,Manual,2.4,Sedan,4,-9322.23
+Nissan,Qashqai,2013,201836,Petrol,Automatic,2.4,SUV,4,-2655.88
+Volkswagen,Passat,2008,163668,Hybrid,Automatic,1.6,SUV,5,-1066.1
+Mercedes,E Class,2013,143567,Petrol,Manual,1.6,Sedan,2,5743.49
+Audi,Q7,2022,116450,Petrol,Manual,3.0,Hatchback,5,26712.9
+Mercedes,C Class,2012,204356,Electric,Manual,2.4,Coupe,7,2406.84
+Ford,Mustang,2005,186905,Hybrid,Manual,3.0,SUV,5,-3789.73
+Volkswagen,Passat,2010,92841,Petrol,Automatic,2.4,Coupe,4,18528.86
+Honda,Civic,2020,20672,Diesel,Manual,2.0,Hatchback,5,33272.71
+Ford,Explorer,2014,2788,Diesel,Automatic,2.0,Hatchback,5,25538.65
+Mercedes,C Class,2015,52899,Petrol,Manual,2.4,Sedan,7,24977.12
+Volkswagen,Golf,2012,15640,Petrol,Manual,1.6,Sedan,7,20279.6
+BMW,X5,2009,48107,Petrol,Manual,2.0,Coupe,4,23046.05
+BMW,X3,2016,25868,Diesel,Manual,2.8,SUV,4,38766.78
+Toyota,Corolla,2016,215869,Petrol,Automatic,1.4,SUV,5,-8625.85
+Toyota,Prius,2022,22787,Diesel,Automatic,1.4,Hatchback,2,30205.52
+Toyota,Prius,2016,138662,Petrol,Manual,1.6,Sedan,4,1944.1
+Toyota,RAV4,2024,78671,Electric,Manual,2.4,Hatchback,5,29560.83
+Volkswagen,Golf,2021,39978,Diesel,Automatic,1.6,Sedan,5,36554.99
+Volkswagen,Polo,2004,154877,Hybrid,Automatic,2.0,Coupe,4,-4264.06
+Volkswagen,Tiguan,2011,213580,Petrol,Manual,1.4,Sedan,4,-18170.67
+Toyota,RAV4,2011,174361,Diesel,Manual,1.6,Sedan,4,-8211.03
+Toyota,Camry,2003,214602,Hybrid,Manual,1.4,Hatchback,4,-16894.62
+Ford,Explorer,2006,130666,Petrol,Manual,2.8,Sedan,7,-952.17
+Mercedes,GLC,2019,148839,Petrol,Manual,2.0,Coupe,5,12741.06
+Ford,Focus,2010,33923,Petrol,Manual,1.6,Hatchback,4,13832.91
+BMW,X3,2006,187826,Petrol,Manual,2.0,Sedan,4,-9641.51
+Honda,Fit,2009,165042,Petrol,Manual,3.0,Sedan,5,-1660.71
+Audi,A4,2009,57377,Petrol,Manual,2.8,Coupe,5,31562.15
+Ford,Mustang,2006,79346,Petrol,Automatic,3.0,Hatchback,4,11580.49
+Toyota,Camry,2005,135174,Diesel,Manual,1.8,Coupe,4,-828.88
+Audi,Q5,2019,4832,Petrol,Manual,1.8,Sedan,4,34302.32
+Nissan,Qashqai,2021,180304,Petrol,Manual,1.8,Coupe,5,-1653.6
+Toyota,RAV4,2013,63168,Diesel,Manual,1.8,SUV,4,22977.57
+BMW,3 Series,2016,18345,Petrol,Automatic,3.0,Hatchback,4,38971.83
+Volkswagen,Polo,2023,74070,Petrol,Manual,1.4,SUV,7,22775.88
+Audi,A4,2021,184197,Petrol,Manual,2.8,Sedan,5,13027.21
+Volkswagen,Tiguan,2003,61785,Petrol,Automatic,3.0,Coupe,7,14746.24
+BMW,X3,2023,119543,Diesel,Automatic,2.8,Coupe,4,31361.49
+Ford,Fiesta,2004,178987,Petrol,Automatic,2.4,SUV,4,-6969.83
+Audi,A4,2003,9349,Petrol,Manual,2.8,Coupe,7,26050.35
+Honda,Accord,2011,167663,Electric,Manual,1.4,Sedan,7,-2734.97
+Honda,Fit,2019,64935,Hybrid,Automatic,2.8,Sedan,7,29645.98
+Mercedes,E Class,2004,153630,Petrol,Manual,2.0,Sedan,5,2141.16
+Audi,A4,2009,43004,Petrol,Automatic,3.0,SUV,4,27733.25
+Toyota,Camry,2008,32303,Diesel,Automatic,1.4,Sedan,4,21492.63
+Mercedes,C Class,2011,173848,Hybrid,Manual,3.0,SUV,4,7742.61
+Ford,Fiesta,2024,178107,Hybrid,Manual,2.4,Sedan,7,11636.93
+Mercedes,C Class,2010,215928,Petrol,Manual,1.4,Hatchback,4,-8365.63
+Nissan,Altima,2007,149624,Petrol,Manual,2.0,Hatchback,5,-10479.07
+Toyota,Prius,2005,103561,Petrol,Automatic,1.4,Hatchback,7,1642.17
+Nissan,Altima,2007,44474,Hybrid,Automatic,1.4,Sedan,7,20775.29
+BMW,X5,2005,66357,Hybrid,Manual,2.0,Hatchback,7,12926.84
+Volkswagen,Polo,2015,143284,Petrol,Automatic,2.8,Sedan,4,4381.84
+BMW,X5,2012,77450,Diesel,Manual,1.4,Hatchback,4,16936.61
+Ford,Fiesta,2013,107405,Petrol,Automatic,1.6,SUV,7,18093.76
+Volkswagen,Golf,2021,38637,Diesel,Manual,1.8,SUV,4,29093.09
+Audi,Q7,2015,97778,Hybrid,Automatic,2.0,Sedan,4,24184.84
+Honda,Fit,2006,53877,Diesel,Automatic,1.4,Hatchback,7,14334.57
+Audi,Q5,2011,26442,Petrol,Manual,2.4,Coupe,5,27253.98
+Volkswagen,Golf,2009,30764,Diesel,Manual,2.0,Hatchback,4,19178.11
+BMW,3 Series,2021,114990,Petrol,Automatic,3.0,Coupe,4,25268.73
+Nissan,Sentra,2009,81879,Hybrid,Manual,1.8,Coupe,4,11716.8
+Audi,A3,2006,23785,Petrol,Automatic,2.0,Sedan,7,19602.63
+Ford,Explorer,2019,114117,Hybrid,Automatic,1.4,Hatchback,4,13880.74
+Toyota,Corolla,2012,37807,Petrol,Automatic,3.0,Sedan,4,28571.84
+Audi,A4,2005,5366,Petrol,Manual,2.8,SUV,4,29717.88
+Honda,Fit,2018,30895,Petrol,Manual,1.8,Sedan,5,29528.52
+Volkswagen,Polo,2007,99778,Petrol,Automatic,2.0,Coupe,7,10297.01
+Mercedes,C Class,2022,209995,Petrol,Manual,3.0,Hatchback,4,7110.37
+BMW,5 Series,2021,54684,Diesel,Manual,1.8,Sedan,4,29547.52
+Honda,CR-V,2011,64100,Petrol,Manual,1.6,SUV,4,14205.96
+Audi,Q5,2015,54898,Petrol,Automatic,1.6,SUV,4,23712.73
+Honda,Fit,2015,79434,Petrol,Manual,2.4,Hatchback,4,14347.23
+BMW,X3,2017,158377,Petrol,Manual,1.6,Coupe,4,9159.34
+Volkswagen,Polo,2004,72213,Hybrid,Manual,1.4,Sedan,4,13091.01
+Nissan,Altima,2010,145349,Electric,Automatic,1.6,SUV,4,9327.81
+Nissan,Altima,2006,197818,Petrol,Manual,3.0,SUV,4,-12374.77
+Nissan,Juke,2018,208267,Hybrid,Automatic,3.0,SUV,4,605.96
+Mercedes,C Class,2004,124726,Diesel,Automatic,3.0,SUV,4,13788.35
+Honda,Accord,2014,157486,Electric,Automatic,1.6,Sedan,5,10050.17
+Volkswagen,Golf,2019,202376,Petrol,Automatic,2.0,Sedan,4,-2333.65
+Volkswagen,Polo,2023,173498,Petrol,Manual,2.0,SUV,4,9304.71
+Nissan,Altima,2009,67383,Diesel,Automatic,2.0,Coupe,7,16791.46
+Audi,A3,2003,30782,Hybrid,Manual,1.4,Sedan,4,21953.64
+Honda,Civic,2018,27033,Diesel,Automatic,2.4,Sedan,5,27622.83
+Mercedes,C Class,2003,194287,Diesel,Manual,1.4,Hatchback,4,-4838.28
+BMW,X5,2004,123255,Petrol,Automatic,1.6,Coupe,5,2354.15
+Volkswagen,Passat,2024,66603,Diesel,Automatic,1.8,SUV,4,33851.4
+BMW,X3,2021,77327,Hybrid,Manual,2.4,Sedan,4,30110.15
+Ford,Fiesta,2018,63406,Petrol,Automatic,3.0,Hatchback,5,23316.27
+Toyota,Prius,2021,176815,Diesel,Manual,2.4,SUV,5,8601.77
+Volkswagen,Tiguan,2004,135505,Petrol,Manual,2.0,Hatchback,4,-5672.97
+Volkswagen,Tiguan,2004,193714,Diesel,Manual,2.0,Sedan,5,-12504.44
+Toyota,RAV4,2009,67786,Diesel,Manual,2.0,Sedan,4,17385.28
+BMW,3 Series,2003,105021,Hybrid,Manual,1.6,Sedan,7,12501.66
+BMW,X5,2022,28538,Electric,Automatic,3.0,Hatchback,5,47624.99
+BMW,X3,2004,213756,Petrol,Manual,3.0,SUV,2,-2692.32
+Nissan,Qashqai,2014,113586,Petrol,Manual,1.6,Sedan,5,6252.03
+Honda,CR-V,2021,122556,Petrol,Automatic,1.4,SUV,7,20087.73
+Ford,Mustang,2019,92179,Petrol,Automatic,1.6,Hatchback,5,16579.68
+Honda,Fit,2008,61060,Petrol,Manual,2.4,Sedan,4,11451.75
+Honda,CR-V,2013,208752,Petrol,Automatic,1.4,Hatchback,5,-9695.41
+Nissan,Qashqai,2015,108596,Petrol,Manual,1.4,Hatchback,4,7562.87
+Nissan,Altima,2019,149100,Petrol,Manual,2.4,SUV,4,8958.97
+Toyota,Camry,2012,10133,Petrol,Manual,1.6,Coupe,5,27397.2
+Audi,A3,2009,62152,Hybrid,Automatic,1.4,Coupe,4,26381.8
+Honda,Civic,2020,177272,Petrol,Manual,1.4,Sedan,5,216.25
+Honda,Accord,2022,21148,Diesel,Manual,2.4,Sedan,5,25572.92
+Ford,Focus,2013,24112,Hybrid,Automatic,1.8,Sedan,4,32330.3
+Honda,Accord,2003,178544,Diesel,Manual,1.6,Sedan,7,-13390.21
+BMW,5 Series,2014,69307,Petrol,Manual,2.4,SUV,4,22790.24
+Nissan,Juke,2022,61705,Petrol,Automatic,1.6,Coupe,4,22895.95
+Mercedes,GLE,2024,125239,Diesel,Automatic,2.0,Coupe,4,27280.35
+Audi,Q7,2011,44492,Diesel,Manual,2.0,Sedan,4,22690.65
+BMW,5 Series,2006,11368,Petrol,Manual,2.4,SUV,5,26495.33
+Toyota,Camry,2015,2970,Petrol,Automatic,2.4,Sedan,4,30682.6
+Toyota,RAV4,2021,19291,Diesel,Manual,2.4,SUV,7,39822.8
+Ford,Focus,2023,36559,Petrol,Manual,1.6,Sedan,7,34316.54
+Honda,CR-V,2004,153753,Diesel,Manual,1.4,Coupe,5,-3649.71
+Volkswagen,Passat,2009,66953,Petrol,Manual,2.0,Coupe,4,16740.77
+Volkswagen,Golf,2013,17647,Petrol,Automatic,1.4,Sedan,5,23415.83
+Volkswagen,Tiguan,2005,5144,Hybrid,Manual,2.0,Hatchback,2,21309.01
+Audi,A4,2022,106004,Petrol,Manual,2.4,SUV,5,27084.02
+Mercedes,C Class,2005,185147,Diesel,Manual,2.8,Hatchback,4,-4437.05
+Audi,Q5,2017,75835,Petrol,Manual,2.4,SUV,7,25687.36
+BMW,3 Series,2023,15919,Petrol,Manual,3.0,Sedan,4,44869.15
+Audi,Q5,2018,51721,Hybrid,Automatic,2.0,Hatchback,4,36079.16
+Volkswagen,Golf,2019,110862,Petrol,Automatic,2.0,Sedan,7,15660.55
+Volkswagen,Passat,2008,43153,Petrol,Manual,1.6,SUV,4,12507.96
+Mercedes,GLE,2021,215308,Hybrid,Manual,2.4,Sedan,5,7398.67
+Toyota,Corolla,2012,168423,Diesel,Manual,2.8,Hatchback,7,-4028.4
+Audi,Q7,2004,77118,Diesel,Manual,1.8,Hatchback,4,10959.41
+Ford,Mustang,2011,209436,Petrol,Manual,1.4,Sedan,4,-14481.19
+Audi,Q7,2010,72854,Petrol,Manual,1.4,SUV,4,16820.01
+Mercedes,C Class,2014,32559,Diesel,Automatic,2.4,Hatchback,5,35412.86
+Nissan,Juke,2008,206545,Petrol,Automatic,2.4,Sedan,7,-9644.02
+Ford,Explorer,2013,211210,Petrol,Manual,1.4,SUV,4,-10195.84
+Nissan,Qashqai,2012,70159,Hybrid,Automatic,1.4,Hatchback,5,12426.48
+Volkswagen,Golf,2010,131658,Petrol,Manual,2.4,SUV,4,3791.11
+Ford,Explorer,2018,39777,Petrol,Manual,1.8,Hatchback,4,23051.64
+BMW,3 Series,2009,141881,Petrol,Automatic,1.8,SUV,5,13713.3
+Mercedes,GLC,2019,152445,Petrol,Manual,1.6,Hatchback,5,10089.74
+Volkswagen,Passat,2008,156763,Diesel,Manual,2.8,Sedan,4,245.35
+Audi,Q5,2022,125984,Hybrid,Automatic,2.8,Sedan,4,29032.97
+Volkswagen,Tiguan,2011,155497,Petrol,Manual,1.4,Sedan,4,-5218.67
+Ford,Focus,2003,123000,Petrol,Automatic,1.4,Coupe,4,934.9
+Mercedes,GLC,2006,180718,Diesel,Manual,2.0,Coupe,4,3617.72
+BMW,X3,2020,41149,Petrol,Automatic,2.4,Hatchback,5,39110.41
+Nissan,Sentra,2022,107396,Diesel,Manual,1.6,Sedan,4,17335.7
+Ford,Fiesta,2007,92774,Electric,Manual,1.6,SUV,4,19053.12
+Mercedes,GLE,2016,118272,Diesel,Manual,2.4,Hatchback,5,16642.13
+Toyota,Corolla,2015,32974,Petrol,Automatic,2.0,Hatchback,4,32061.73
+Volkswagen,Passat,2005,72594,Electric,Manual,1.4,Sedan,4,13391.64
+BMW,X5,2012,210002,Petrol,Automatic,2.4,Coupe,7,4588.88
+Ford,Fiesta,2018,24946,Electric,Manual,1.4,Sedan,4,29185.6
+Mercedes,GLE,2024,140496,Diesel,Manual,1.6,Sedan,4,22913.04
+BMW,5 Series,2021,146891,Diesel,Manual,2.4,Coupe,4,23125.94
+Volkswagen,Polo,2005,105444,Electric,Manual,1.6,SUV,4,4940.53
+Mercedes,C Class,2008,9326,Diesel,Automatic,1.4,SUV,4,33498.68
+Mercedes,GLC,2012,9489,Petrol,Manual,3.0,SUV,4,31339.97
+Toyota,Prius,2006,62088,Petrol,Automatic,1.6,Coupe,4,12953.49
+Toyota,Corolla,2015,24348,Diesel,Manual,2.0,Sedan,5,24806.13
+BMW,3 Series,2003,22542,Diesel,Manual,2.8,Hatchback,4,22445.58
+Nissan,Juke,2005,36906,Petrol,Manual,3.0,Sedan,4,25012.58
+Nissan,Juke,2004,43578,Diesel,Automatic,2.8,Sedan,4,22652.93
+Audi,Q5,2009,184787,Diesel,Automatic,1.8,SUV,7,-1967.89
+Audi,A3,2019,141243,Petrol,Manual,2.8,SUV,4,19454.62
+BMW,X5,2006,8629,Petrol,Manual,1.4,Sedan,5,26103.36
+Honda,Fit,2024,139007,Petrol,Manual,1.8,SUV,4,13497.47
+Toyota,Corolla,2008,31802,Petrol,Manual,1.6,Hatchback,7,16746.22
+Ford,Fiesta,2003,93789,Petrol,Manual,2.0,SUV,4,3801.12
+Ford,Fiesta,2010,10293,Petrol,Manual,3.0,Hatchback,4,19138.1
+Honda,Fit,2019,21657,Petrol,Automatic,2.8,Hatchback,4,29501.49
+Ford,Fiesta,2005,30905,Petrol,Automatic,3.0,SUV,4,21988.45
+Toyota,Camry,2004,96475,Diesel,Automatic,1.4,SUV,5,8252.59
+Mercedes,GLC,2021,102951,Petrol,Automatic,2.8,SUV,5,29201.42
+Nissan,Altima,2016,78898,Electric,Manual,2.8,SUV,5,23856.36
+Audi,Q7,2010,137196,Hybrid,Automatic,2.0,Sedan,4,10717.43
+BMW,X3,2019,159060,Diesel,Manual,1.4,Sedan,5,12804.88
+BMW,X5,2021,160863,Electric,Manual,1.4,Sedan,4,15199.91
+Ford,Mustang,2010,128227,Hybrid,Manual,3.0,SUV,7,15311.88
+Honda,CR-V,2015,120931,Petrol,Manual,1.8,Coupe,5,6705.79
+Mercedes,GLE,2003,109161,Diesel,Automatic,2.4,SUV,4,15168.97
+Mercedes,GLE,2009,53869,Petrol,Automatic,3.0,SUV,5,28969.83
+Toyota,Camry,2016,108162,Diesel,Manual,2.0,SUV,4,17712.32
+BMW,5 Series,2007,4201,Diesel,Manual,1.6,Hatchback,4,23942.74
+Ford,Mustang,2024,212652,Petrol,Automatic,2.0,SUV,4,8990.31
+Honda,Civic,2024,82680,Petrol,Manual,1.6,SUV,5,18907.64
+Audi,Q7,2008,166872,Electric,Automatic,1.6,Hatchback,4,9652.58
+Mercedes,GLE,2011,210561,Petrol,Automatic,2.8,Sedan,2,-13.02
+Audi,Q5,2007,110341,Petrol,Manual,1.8,SUV,5,11406.38
+Audi,A4,2014,189878,Petrol,Manual,2.4,SUV,4,7492.44
+Nissan,Sentra,2005,106470,Diesel,Manual,2.8,Hatchback,5,6279.92
+Volkswagen,Passat,2011,30839,Hybrid,Manual,2.0,Coupe,4,22612.89
+Mercedes,GLC,2015,7772,Hybrid,Manual,2.0,Hatchback,4,39821.33
+Nissan,Qashqai,2016,31565,Petrol,Manual,1.6,SUV,5,31294.22
+BMW,X5,2016,207467,Petrol,Manual,2.0,Sedan,4,-4483.39
+Nissan,Qashqai,2007,105573,Petrol,Manual,2.8,SUV,5,14275.83
+Volkswagen,Polo,2020,71579,Diesel,Manual,1.6,Hatchback,4,21250.03
+Audi,Q5,2018,99241,Hybrid,Automatic,1.6,Coupe,5,24450.29
+Nissan,Sentra,2019,57794,Diesel,Manual,2.4,Hatchback,4,20638.55
+Mercedes,GLC,2013,191780,Petrol,Automatic,3.0,Sedan,5,5365.08
+Audi,A4,2022,219871,Diesel,Manual,1.8,Hatchback,4,-5033.67
+Ford,Mustang,2011,20511,Petrol,Manual,2.8,Coupe,4,23379.24
+Nissan,Qashqai,2020,158674,Diesel,Manual,1.6,Hatchback,4,2997.31
+Mercedes,E Class,2007,75160,Diesel,Automatic,2.0,Hatchback,4,15833.08
+Volkswagen,Tiguan,2008,12325,Diesel,Manual,3.0,SUV,4,30274.6
+BMW,3 Series,2014,203041,Diesel,Manual,2.0,Hatchback,4,-2547.43
+Volkswagen,Tiguan,2015,15491,Electric,Manual,2.0,Sedan,4,29977.08
+Toyota,Camry,2019,46886,Petrol,Automatic,1.6,Sedan,5,25319.45
+Toyota,Camry,2009,7559,Petrol,Manual,2.0,Hatchback,4,23175.72
+Mercedes,GLC,2022,104739,Petrol,Manual,2.4,Coupe,4,27481.29
+Audi,A3,2010,132716,Diesel,Automatic,3.0,Coupe,4,12668.0
+Volkswagen,Tiguan,2014,71906,Diesel,Manual,1.6,Sedan,4,15959.01
+BMW,X5,2023,17601,Diesel,Manual,1.8,Sedan,5,40069.66
+Audi,A4,2014,27321,Diesel,Automatic,2.4,Sedan,7,30835.93
+Mercedes,C Class,2018,205478,Petrol,Manual,3.0,Hatchback,4,3590.74
+Nissan,Sentra,2022,177689,Diesel,Manual,1.6,Hatchback,5,4269.86
+Audi,A3,2024,206245,Diesel,Manual,2.4,Coupe,4,11906.74
+BMW,5 Series,2013,117715,Petrol,Manual,3.0,Sedan,7,14675.41
+Nissan,Juke,2012,121039,Petrol,Automatic,2.4,SUV,4,12378.65
+Toyota,Corolla,2007,173347,Petrol,Manual,1.8,Hatchback,4,-13338.32
+Nissan,Juke,2014,136427,Petrol,Manual,1.6,Sedan,4,-1393.62
+Honda,Civic,2023,97144,Hybrid,Manual,1.8,Coupe,4,22910.06
+Ford,Explorer,2013,65632,Hybrid,Automatic,1.4,SUV,5,26078.45
+Volkswagen,Tiguan,2010,107840,Diesel,Automatic,1.6,Sedan,4,8411.21
+Audi,A4,2005,15946,Petrol,Manual,2.0,Sedan,4,21548.55
+Nissan,Juke,2011,43953,Diesel,Automatic,1.4,Coupe,4,25929.7
+Audi,A3,2008,162766,Diesel,Manual,1.4,Hatchback,7,-2616.08
+Audi,A3,2024,191235,Petrol,Automatic,2.4,Hatchback,5,17928.85
+Ford,Explorer,2014,24189,Hybrid,Manual,1.4,Hatchback,7,22209.87
+Toyota,RAV4,2006,23125,Petrol,Manual,1.4,SUV,5,15499.97
+Toyota,Corolla,2004,20651,Petrol,Automatic,2.4,Hatchback,7,18850.46
+Ford,Fiesta,2021,174564,Petrol,Automatic,3.0,Coupe,4,8181.41
+Toyota,Corolla,2023,69846,Petrol,Manual,2.8,Sedan,4,24243.02
+Mercedes,E Class,2019,73234,Hybrid,Manual,1.4,Hatchback,4,36244.2
+Volkswagen,Passat,2005,4717,Petrol,Automatic,1.6,Sedan,4,21170.55
+Nissan,Sentra,2005,214026,Petrol,Manual,2.8,Sedan,5,-15139.08
+BMW,X5,2007,96619,Petrol,Manual,2.8,SUV,2,13530.57
+Nissan,Altima,2019,175843,Petrol,Manual,1.8,Coupe,4,-400.28
+Nissan,Qashqai,2019,156274,Petrol,Manual,3.0,Sedan,5,10252.47
+Volkswagen,Tiguan,2021,32906,Petrol,Manual,3.0,SUV,4,28714.23
+BMW,X3,2005,176694,Diesel,Manual,2.8,Hatchback,2,-6862.09
+Ford,Focus,2006,121966,Petrol,Automatic,2.8,Sedan,4,1754.73
+Nissan,Juke,2022,133738,Hybrid,Manual,2.8,Hatchback,5,19950.51
+Honda,Fit,2023,45668,Petrol,Automatic,1.6,Coupe,4,30081.31
+BMW,3 Series,2018,186618,Diesel,Automatic,2.4,Sedan,4,10640.44
+Toyota,RAV4,2005,205103,Hybrid,Automatic,3.0,Sedan,4,-7129.81
+Volkswagen,Passat,2004,90617,Petrol,Manual,1.6,Coupe,5,7536.97
+Audi,Q7,2004,22160,Petrol,Manual,1.4,Sedan,4,13540.09
+Toyota,Camry,2018,187032,Electric,Manual,1.8,Sedan,2,6189.32
+Honda,Fit,2021,195451,Diesel,Manual,1.6,Coupe,7,1882.34
+Mercedes,C Class,2016,112411,Diesel,Automatic,3.0,Coupe,5,29625.65
+Mercedes,E Class,2008,128254,Petrol,Automatic,2.0,Hatchback,4,6192.58
+Volkswagen,Passat,2019,50621,Petrol,Manual,2.4,SUV,4,27366.28
+Ford,Focus,2004,16709,Diesel,Manual,3.0,Coupe,4,21164.36
+Nissan,Sentra,2021,207823,Hybrid,Automatic,2.8,Hatchback,5,584.07
+BMW,5 Series,2022,107284,Petrol,Manual,2.8,Hatchback,4,19091.56
+Volkswagen,Golf,2018,61943,Hybrid,Automatic,3.0,Hatchback,7,26992.94
+Honda,CR-V,2022,153124,Diesel,Manual,2.4,Hatchback,5,10653.46
+Toyota,Prius,2015,7711,Petrol,Automatic,1.6,SUV,4,29989.9
+Toyota,RAV4,2013,19426,Petrol,Automatic,2.8,SUV,2,30647.08
+Ford,Mustang,2010,54902,Petrol,Manual,1.8,SUV,5,9783.09
+Nissan,Altima,2023,100241,Petrol,Manual,1.8,SUV,5,18670.54
+Toyota,Corolla,2018,81937,Diesel,Automatic,2.4,SUV,5,29426.82
+Ford,Fiesta,2007,42841,Petrol,Manual,1.8,SUV,4,17345.2
+Toyota,Camry,2024,78594,Petrol,Manual,1.4,Hatchback,5,20874.93
+Nissan,Altima,2004,74792,Diesel,Manual,3.0,SUV,5,13517.13
+Audi,Q7,2015,116377,Diesel,Manual,2.0,Sedan,7,13101.71
+Volkswagen,Tiguan,2007,124677,Diesel,Automatic,2.4,Sedan,4,9756.34
+Audi,Q5,2017,194521,Diesel,Manual,2.8,Sedan,4,11903.06
+Audi,A3,2012,177877,Petrol,Manual,2.4,Hatchback,4,309.58
+Volkswagen,Polo,2012,65729,Diesel,Automatic,2.4,SUV,5,30958.97
+Toyota,Corolla,2017,198781,Petrol,Manual,2.8,Sedan,7,-3357.16
+Volkswagen,Passat,2019,115527,Petrol,Manual,1.8,Hatchback,4,6001.69
+Audi,A4,2011,42913,Petrol,Automatic,2.8,Sedan,4,25504.86
+Audi,Q7,2024,76150,Diesel,Automatic,2.8,Sedan,2,34190.63
+BMW,5 Series,2013,163704,Diesel,Manual,1.6,Hatchback,4,10531.89
+Volkswagen,Golf,2006,181146,Petrol,Automatic,1.6,SUV,5,-8605.99
+BMW,5 Series,2003,83559,Hybrid,Manual,3.0,Hatchback,4,11708.48
+Toyota,Camry,2007,36357,Hybrid,Manual,3.0,Hatchback,4,18680.67
+Nissan,Altima,2018,43831,Petrol,Automatic,3.0,Coupe,7,34558.49
+Honda,Civic,2014,24565,Diesel,Automatic,1.4,Sedan,4,29569.67
+Toyota,Corolla,2010,154324,Petrol,Manual,3.0,Hatchback,4,-2031.85
+Mercedes,E Class,2013,111652,Electric,Manual,3.0,Hatchback,4,16900.13
+Honda,Accord,2021,100357,Petrol,Manual,2.8,Sedan,4,15424.24
+Volkswagen,Passat,2015,148471,Petrol,Manual,2.0,Coupe,4,9383.2
+BMW,X5,2004,182649,Petrol,Automatic,2.0,SUV,5,-372.63
+Toyota,Corolla,2004,175424,Petrol,Automatic,2.0,Coupe,4,-7266.84
+Nissan,Qashqai,2013,31897,Diesel,Manual,1.4,Hatchback,4,25738.81
+Mercedes,GLE,2011,130538,Diesel,Manual,2.0,SUV,4,20569.8
+Ford,Focus,2021,194388,Petrol,Manual,1.6,Sedan,2,-3504.85
+Audi,A4,2015,170699,Diesel,Manual,1.6,Coupe,4,5917.95
+Mercedes,C Class,2019,73811,Hybrid,Automatic,1.4,SUV,4,32151.47
+Toyota,Camry,2015,87610,Hybrid,Manual,2.0,Sedan,4,16619.47
+Volkswagen,Passat,2010,196062,Diesel,Manual,1.4,Sedan,5,-15547.4
+BMW,3 Series,2017,9165,Petrol,Manual,2.8,Hatchback,4,31581.06
+Audi,A3,2016,116541,Petrol,Automatic,3.0,Sedan,5,14310.11
+Nissan,Sentra,2018,27309,Hybrid,Manual,2.8,SUV,4,38254.26
+Mercedes,GLC,2007,197020,Diesel,Manual,1.8,Hatchback,4,-10660.09
+Audi,A4,2017,10441,Diesel,Manual,1.6,Sedan,4,41060.5
+Ford,Explorer,2009,7099,Hybrid,Manual,2.0,SUV,4,25084.97
+Honda,Accord,2020,73709,Petrol,Manual,2.4,Sedan,4,27291.9
+BMW,X3,2020,45636,Diesel,Manual,1.4,Coupe,5,31917.35
+Volkswagen,Golf,2016,110017,Petrol,Manual,2.8,Coupe,4,9085.14
+Mercedes,GLC,2023,67306,Petrol,Manual,2.0,Sedan,4,35993.01
+Ford,Explorer,2014,79677,Diesel,Automatic,2.8,SUV,5,26644.11
+Volkswagen,Golf,2003,125153,Petrol,Manual,1.4,SUV,4,-6426.9
+Volkswagen,Polo,2016,124210,Electric,Manual,1.8,Coupe,4,13480.91
+Nissan,Sentra,2020,205815,Petrol,Manual,2.0,SUV,4,-4345.25
+Ford,Fiesta,2005,106772,Hybrid,Automatic,1.4,SUV,4,6095.35
+Audi,Q5,2005,125002,Diesel,Automatic,2.4,Coupe,5,10544.69
+Mercedes,GLC,2009,149791,Diesel,Automatic,3.0,Sedan,4,10513.19
+BMW,3 Series,2021,39982,Electric,Manual,2.0,SUV,4,35982.79
+BMW,X3,2014,147397,Petrol,Manual,1.8,Sedan,5,5109.73
+Toyota,Prius,2024,189896,Petrol,Manual,2.4,Hatchback,4,6169.98
+Ford,Explorer,2022,71337,Petrol,Manual,1.8,SUV,4,22790.86
+Mercedes,E Class,2015,40878,Petrol,Manual,1.8,Coupe,4,29594.15
+Nissan,Juke,2017,77474,Hybrid,Manual,2.8,SUV,4,21876.2
+Volkswagen,Passat,2010,61958,Diesel,Manual,2.4,Sedan,4,14195.4
+Honda,Fit,2004,129562,Petrol,Manual,1.6,Hatchback,4,-1612.53
+Audi,Q7,2011,190294,Petrol,Manual,1.8,Hatchback,4,-8800.21
+Toyota,RAV4,2016,132022,Diesel,Manual,2.8,Hatchback,5,12642.67
+Audi,Q5,2007,29361,Diesel,Automatic,2.0,Hatchback,5,25365.6
+Ford,Explorer,2007,70604,Petrol,Manual,1.4,Sedan,5,7074.67
+BMW,5 Series,2003,152270,Hybrid,Automatic,2.8,Hatchback,4,1547.86
+Audi,A4,2019,74009,Diesel,Manual,2.8,Sedan,7,28252.69
+BMW,X3,2022,129833,Hybrid,Automatic,1.6,Sedan,4,22411.76
+Volkswagen,Golf,2021,153301,Petrol,Automatic,3.0,Coupe,5,12339.69
+Mercedes,GLC,2011,73758,Diesel,Manual,3.0,Hatchback,5,24984.14
+Nissan,Altima,2016,143135,Petrol,Automatic,3.0,Sedan,4,10299.5
+Audi,Q5,2024,88789,Petrol,Manual,1.8,Sedan,4,32770.64
+Ford,Fiesta,2016,31441,Diesel,Manual,3.0,Coupe,5,30730.83
+Volkswagen,Passat,2009,83135,Diesel,Automatic,2.8,Sedan,5,9116.52
+BMW,5 Series,2010,98147,Petrol,Manual,3.0,Sedan,4,19355.2
+Mercedes,E Class,2018,2520,Hybrid,Manual,2.0,Sedan,5,42094.01
+Honda,Accord,2012,196609,Petrol,Manual,1.6,Sedan,4,-3551.46
+Toyota,Camry,2021,117080,Diesel,Manual,1.6,Sedan,4,19432.56
+Mercedes,GLC,2022,9914,Electric,Manual,3.0,Coupe,4,50498.62
+Honda,Fit,2003,191222,Diesel,Manual,2.0,Sedan,5,-11609.87
+Nissan,Juke,2018,188425,Hybrid,Manual,3.0,SUV,4,4482.84
+Volkswagen,Tiguan,2011,4626,Diesel,Manual,2.0,Hatchback,4,25175.93
+Audi,Q7,2014,37572,Hybrid,Manual,2.0,SUV,4,35100.19
+Audi,Q7,2008,81307,Diesel,Manual,1.4,Hatchback,4,15926.34
+Mercedes,C Class,2011,112580,Diesel,Automatic,1.8,Hatchback,4,18400.26
+Toyota,Prius,2010,160216,Petrol,Manual,2.0,Hatchback,4,-4298.91
+BMW,3 Series,2004,94505,Diesel,Manual,1.4,Hatchback,5,15036.06
+BMW,3 Series,2020,135354,Petrol,Automatic,1.6,Hatchback,4,13968.21
+Nissan,Qashqai,2006,4208,Electric,Automatic,2.4,Hatchback,4,22899.52
+Honda,Civic,2011,145561,Petrol,Manual,1.6,Hatchback,4,-7228.02
+BMW,X3,2007,201556,Petrol,Manual,2.4,Sedan,4,-2763.26
+Ford,Explorer,2006,116713,Hybrid,Automatic,2.0,Hatchback,4,3346.37
+Honda,Fit,2011,101173,Petrol,Automatic,1.8,Hatchback,4,8797.84
+Toyota,Prius,2023,66771,Petrol,Manual,1.4,Sedan,4,21445.14
+Ford,Explorer,2023,210030,Diesel,Manual,1.8,Coupe,4,-1254.05
+Toyota,Corolla,2011,9238,Petrol,Manual,2.0,Sedan,4,22018.45
+Toyota,RAV4,2014,64510,Petrol,Manual,2.4,Sedan,5,20195.88
+Ford,Focus,2024,32238,Diesel,Automatic,1.6,Coupe,4,34585.54
+Honda,Accord,2008,190848,Petrol,Automatic,1.4,Sedan,4,-9360.62
+Mercedes,C Class,2023,107207,Petrol,Manual,3.0,SUV,4,31588.94
+Toyota,Camry,2005,203080,Petrol,Manual,3.0,SUV,4,-11317.21
+Ford,Mustang,2007,147004,Petrol,Automatic,3.0,Coupe,4,-3328.66
+BMW,5 Series,2010,123389,Petrol,Manual,1.8,SUV,5,5543.42
+Nissan,Qashqai,2003,114809,Petrol,Automatic,2.4,Hatchback,2,8719.67
+Audi,Q5,2020,46183,Diesel,Manual,1.4,Hatchback,4,34217.22
+Nissan,Juke,2021,124526,Diesel,Manual,3.0,Hatchback,4,19373.9
+Ford,Explorer,2011,151383,Petrol,Manual,1.4,Coupe,4,-5207.68
+BMW,5 Series,2021,212444,Petrol,Manual,2.0,Hatchback,7,1590.51
+BMW,5 Series,2019,121677,Hybrid,Automatic,2.8,SUV,4,24988.98
+Nissan,Qashqai,2020,206666,Diesel,Manual,2.8,Coupe,4,-2598.54
+Nissan,Juke,2020,207907,Petrol,Manual,3.0,SUV,4,-707.34
+Nissan,Juke,2015,115916,Diesel,Manual,2.0,Sedan,4,13478.91
+Volkswagen,Passat,2005,97761,Petrol,Manual,1.4,Sedan,4,3093.41
+Mercedes,C Class,2023,33109,Hybrid,Manual,1.4,Hatchback,4,35636.23
+Mercedes,C Class,2016,60535,Hybrid,Automatic,1.6,Sedan,4,30496.29
+Nissan,Altima,2022,193642,Hybrid,Manual,1.4,SUV,4,6641.63
+Ford,Focus,2024,32146,Petrol,Manual,2.0,SUV,4,31086.61
+Ford,Mustang,2007,88558,Petrol,Manual,1.4,SUV,4,5914.24
+Nissan,Altima,2011,154302,Petrol,Manual,1.6,Sedan,4,-2988.45
+BMW,X5,2007,54455,Petrol,Automatic,1.8,Hatchback,5,20049.08
+Honda,Fit,2004,214355,Petrol,Manual,2.8,SUV,4,-13170.63
+Mercedes,GLE,2024,143587,Diesel,Manual,2.4,Sedan,7,20562.51
+Ford,Fiesta,2023,8178,Petrol,Automatic,1.4,SUV,7,35764.84
+Nissan,Altima,2023,55883,Hybrid,Automatic,3.0,SUV,4,33513.38
+Nissan,Qashqai,2022,163417,Petrol,Automatic,2.0,Hatchback,4,1588.66
+Ford,Focus,2017,190175,Petrol,Manual,1.8,SUV,5,-2598.7
+Mercedes,GLC,2014,204070,Hybrid,Manual,1.8,Sedan,4,4679.43
+Nissan,Juke,2024,187555,Diesel,Automatic,2.8,Coupe,4,6623.2
+Audi,A3,2015,18302,Petrol,Manual,2.0,SUV,4,34679.15
+Honda,CR-V,2017,161071,Diesel,Manual,1.6,Sedan,4,5218.04
+Mercedes,C Class,2007,26017,Petrol,Manual,1.8,Hatchback,5,17639.39
+Mercedes,C Class,2019,18688,Petrol,Automatic,1.4,Hatchback,5,35970.3
+Audi,Q7,2021,152846,Diesel,Manual,1.6,Hatchback,5,17255.59
+Toyota,RAV4,2017,106240,Petrol,Manual,1.8,SUV,5,16643.01
+Ford,Fiesta,2013,143256,Diesel,Manual,1.6,SUV,4,-2371.54
+Volkswagen,Polo,2007,187623,Petrol,Manual,1.8,SUV,4,-7865.45
+Honda,Fit,2003,17004,Diesel,Automatic,1.4,Sedan,7,16046.52
+Ford,Explorer,2016,117001,Hybrid,Manual,2.4,Sedan,7,15152.0
+Ford,Focus,2018,183904,Petrol,Manual,1.4,Coupe,5,-4610.98
+Honda,Accord,2019,97983,Petrol,Automatic,1.6,Hatchback,5,15493.36
+Honda,CR-V,2023,116106,Petrol,Automatic,3.0,SUV,4,22080.78
+Ford,Explorer,2013,110532,Hybrid,Manual,1.4,Sedan,4,7814.34
+Volkswagen,Polo,2021,199769,Diesel,Automatic,1.6,Hatchback,5,-1373.72
+Toyota,Camry,2018,12876,Diesel,Manual,2.0,Sedan,2,30867.0
+Ford,Focus,2009,193402,Petrol,Automatic,1.8,Sedan,4,-14374.3
+Toyota,RAV4,2021,179971,Petrol,Manual,1.8,Sedan,4,3775.33
+Mercedes,E Class,2004,179126,Diesel,Manual,1.4,Hatchback,4,-5781.77
+Ford,Fiesta,2016,91878,Petrol,Manual,1.8,Hatchback,4,5389.06
+Volkswagen,Polo,2023,114465,Diesel,Manual,2.8,Sedan,4,22773.63
+Mercedes,GLC,2017,82438,Petrol,Manual,2.4,Sedan,4,24397.04
+Volkswagen,Passat,2023,56872,Petrol,Manual,3.0,Hatchback,4,28280.68
+Audi,A3,2004,192844,Diesel,Manual,2.4,SUV,4,-2065.32
+BMW,5 Series,2014,112302,Diesel,Manual,2.8,Hatchback,2,17536.02
+Volkswagen,Polo,2020,159689,Diesel,Manual,2.0,Sedan,5,10284.63
+BMW,5 Series,2017,23976,Petrol,Automatic,2.4,Hatchback,4,33945.77
+Nissan,Juke,2022,173985,Hybrid,Automatic,2.4,Coupe,4,15492.87
+Nissan,Sentra,2013,145628,Hybrid,Automatic,2.8,Hatchback,4,7980.32
+Mercedes,GLE,2018,219479,Hybrid,Manual,2.0,Sedan,4,5118.21
+Audi,Q7,2012,31207,Diesel,Manual,1.8,Hatchback,5,27674.35
+Ford,Mustang,2022,119728,Diesel,Manual,1.4,Sedan,4,16519.3
+Volkswagen,Polo,2005,113435,Diesel,Manual,3.0,Sedan,4,6490.22
+Audi,Q5,2008,119371,Petrol,Manual,2.0,Sedan,5,5295.79
+Nissan,Sentra,2005,13855,Petrol,Automatic,2.8,Coupe,2,20954.05
+Ford,Mustang,2018,105140,Diesel,Manual,2.4,SUV,5,17415.59
+Volkswagen,Polo,2008,67293,Petrol,Automatic,1.4,Coupe,7,10954.94
+BMW,X3,2009,136583,Petrol,Manual,2.4,SUV,4,5448.04
+Honda,Civic,2021,52593,Hybrid,Manual,2.0,SUV,7,25323.49
+Honda,CR-V,2010,96841,Petrol,Manual,1.6,Sedan,4,1210.98
+Mercedes,C Class,2006,137166,Diesel,Automatic,1.6,Hatchback,4,12363.42
+Ford,Mustang,2003,15961,Diesel,Manual,2.4,Sedan,4,15026.22
+Toyota,Prius,2007,173519,Petrol,Manual,1.4,SUV,2,-1942.35
+BMW,5 Series,2023,158030,Hybrid,Manual,2.4,Sedan,4,19544.69
+Audi,Q7,2015,14492,Petrol,Manual,2.8,SUV,4,36732.21
+Ford,Explorer,2024,16112,Hybrid,Automatic,1.4,SUV,4,35097.9
+Nissan,Altima,2007,187361,Hybrid,Automatic,1.4,Sedan,4,-8510.04
+Volkswagen,Golf,2010,63766,Petrol,Automatic,1.4,Sedan,4,19477.11
+Mercedes,C Class,2006,189647,Petrol,Automatic,2.8,Coupe,4,6147.98
+Nissan,Qashqai,2011,110837,Petrol,Automatic,2.8,Sedan,4,10426.9
+BMW,X5,2015,76614,Petrol,Manual,3.0,Sedan,4,20333.74
+Honda,CR-V,2020,61636,Petrol,Manual,1.4,Sedan,5,18042.59
+Toyota,RAV4,2011,145662,Electric,Manual,2.0,SUV,4,6052.55
+Nissan,Qashqai,2019,25920,Petrol,Manual,1.4,Hatchback,5,28724.5
+Nissan,Altima,2016,89769,Hybrid,Manual,1.8,Sedan,4,21163.09
+Audi,A3,2009,77396,Petrol,Manual,1.8,SUV,4,17795.58
+Toyota,Camry,2023,35613,Electric,Automatic,2.4,Hatchback,7,38819.8
+Ford,Fiesta,2012,78915,Petrol,Automatic,3.0,Sedan,4,21251.17
+Toyota,Prius,2006,117248,Petrol,Manual,2.8,Coupe,4,1663.92
+Toyota,Corolla,2024,149708,Diesel,Automatic,1.4,Coupe,2,14918.39
+Honda,Accord,2023,20826,Petrol,Manual,1.6,Sedan,4,33032.81
+Mercedes,C Class,2004,192182,Hybrid,Manual,1.6,Sedan,4,-8153.72
+Toyota,Corolla,2022,193506,Petrol,Manual,1.6,Sedan,4,-1966.01
+Nissan,Altima,2023,152851,Diesel,Manual,1.8,Sedan,4,6902.86
+BMW,3 Series,2021,203495,Diesel,Manual,2.4,SUV,7,14504.43
+Ford,Mustang,2008,95292,Diesel,Manual,2.8,SUV,4,17473.42
+Mercedes,E Class,2016,181111,Petrol,Manual,3.0,SUV,4,11267.36
+Volkswagen,Passat,2014,160544,Petrol,Manual,2.4,Sedan,5,-456.22
+Ford,Fiesta,2016,124631,Petrol,Automatic,1.8,Sedan,4,6146.93
+Toyota,Prius,2016,41132,Petrol,Manual,1.6,Coupe,5,24101.83
+Toyota,RAV4,2017,123556,Petrol,Manual,1.8,Coupe,4,8799.21
+Volkswagen,Tiguan,2014,198494,Electric,Manual,2.8,Sedan,4,260.58
+Toyota,Prius,2018,216644,Diesel,Manual,3.0,Hatchback,7,-773.57
+Audi,Q5,2014,99678,Diesel,Manual,1.8,SUV,4,18160.96
+BMW,X5,2003,56042,Petrol,Manual,1.6,Hatchback,5,11305.76
+Volkswagen,Golf,2003,164956,Petrol,Manual,1.4,SUV,4,-11285.53
+Toyota,RAV4,2024,18556,Diesel,Manual,1.4,Coupe,5,35543.72
+Nissan,Altima,2023,34938,Petrol,Automatic,2.4,Sedan,4,31398.53
+Audi,A4,2015,124503,Petrol,Manual,2.4,Sedan,4,15528.49
+BMW,X5,2006,217864,Diesel,Manual,2.4,Coupe,4,-13381.88
+Honda,Accord,2020,73675,Diesel,Manual,1.4,Sedan,7,26176.2
+Nissan,Altima,2006,98644,Electric,Manual,2.0,Sedan,4,8877.77
+Ford,Explorer,2011,72269,Petrol,Manual,1.6,Hatchback,4,10943.64
+BMW,3 Series,2010,98029,Diesel,Manual,1.8,Hatchback,5,15375.03
+BMW,3 Series,2003,3544,Petrol,Manual,2.4,Hatchback,4,21296.29
+Honda,Fit,2020,131649,Petrol,Automatic,1.6,Hatchback,4,7377.23
+BMW,X5,2014,131980,Diesel,Manual,2.4,Hatchback,4,8840.34
+Honda,Civic,2009,70792,Petrol,Manual,1.8,Sedan,4,9766.82
+Toyota,RAV4,2014,59559,Diesel,Automatic,2.0,Hatchback,4,23616.84
+Ford,Explorer,2003,168029,Petrol,Manual,2.0,Hatchback,4,-16113.26
+Toyota,Corolla,2012,42953,Petrol,Automatic,1.8,Coupe,4,24913.84
+BMW,5 Series,2014,12260,Electric,Automatic,1.4,Sedan,4,30715.85
+Volkswagen,Passat,2010,10814,Petrol,Automatic,2.4,Sedan,4,24719.66
+Honda,Civic,2021,194222,Hybrid,Manual,3.0,Hatchback,4,8974.88
+Toyota,Corolla,2008,81430,Petrol,Manual,2.4,Sedan,5,9695.49
+Toyota,Corolla,2006,24199,Electric,Manual,2.8,Sedan,4,23090.92
+Mercedes,C Class,2014,193615,Petrol,Manual,2.8,Hatchback,4,347.4
+Ford,Fiesta,2022,34399,Petrol,Manual,1.4,SUV,4,19218.51
+BMW,5 Series,2011,75394,Hybrid,Manual,2.8,Sedan,4,20291.31
+Toyota,Corolla,2004,6509,Petrol,Manual,1.6,Sedan,5,21111.55
+Ford,Fiesta,2024,150038,Petrol,Manual,2.4,Sedan,4,8228.83
+BMW,3 Series,2012,154447,Electric,Manual,3.0,Hatchback,5,11013.0
+BMW,X3,2006,166927,Diesel,Manual,3.0,SUV,5,-3008.66
+Mercedes,C Class,2016,59343,Diesel,Automatic,1.8,Sedan,5,25599.58
+Volkswagen,Polo,2010,73525,Diesel,Manual,2.8,SUV,5,22073.66
+BMW,X5,2023,206510,Hybrid,Manual,2.4,Sedan,4,11503.54
+Volkswagen,Polo,2009,181117,Hybrid,Automatic,1.4,Sedan,7,-8652.86
+Mercedes,GLC,2015,10100,Diesel,Manual,1.6,Sedan,5,33764.17
+Ford,Fiesta,2014,152829,Petrol,Manual,3.0,SUV,4,5097.43
+Honda,CR-V,2008,179177,Petrol,Automatic,3.0,Sedan,4,-7679.47
+Ford,Fiesta,2013,123914,Diesel,Manual,3.0,Sedan,4,2082.22
+Mercedes,C Class,2005,141499,Hybrid,Manual,1.8,SUV,4,7520.71
+Honda,Accord,2017,2216,Diesel,Automatic,1.8,SUV,4,38933.47
+Nissan,Sentra,2019,8551,Petrol,Automatic,2.8,Sedan,5,37254.76
+BMW,3 Series,2023,9649,Petrol,Automatic,1.4,Sedan,4,43663.94
+Volkswagen,Golf,2010,36656,Diesel,Automatic,3.0,Sedan,4,19930.54
+Audi,Q7,2009,218008,Hybrid,Manual,2.4,SUV,4,-2656.15
+Ford,Mustang,2015,140289,Petrol,Automatic,2.4,Hatchback,4,4288.94
+Honda,Accord,2018,172537,Diesel,Manual,2.0,Sedan,4,2464.23
+Audi,Q7,2024,66437,Hybrid,Automatic,3.0,Hatchback,5,37863.64
+Ford,Focus,2003,206389,Electric,Automatic,2.8,Hatchback,4,-12463.45
+Honda,Accord,2008,45363,Petrol,Automatic,1.4,Sedan,7,6377.73
+Nissan,Qashqai,2008,198702,Electric,Automatic,2.0,Sedan,5,-1448.51
+BMW,X5,2008,8713,Diesel,Manual,3.0,Sedan,5,32987.63
+Toyota,Camry,2013,6456,Hybrid,Automatic,1.4,Sedan,4,26188.19
+BMW,5 Series,2022,19199,Petrol,Manual,2.8,SUV,5,44558.2
+BMW,3 Series,2003,174622,Diesel,Manual,1.6,Sedan,7,-7663.34
+Volkswagen,Golf,2020,58134,Diesel,Automatic,2.0,Hatchback,5,24895.17
+Audi,A3,2016,100349,Petrol,Automatic,3.0,SUV,4,22878.25
+Honda,Fit,2016,104746,Petrol,Manual,2.0,Hatchback,5,12263.9
+Honda,CR-V,2017,174123,Diesel,Manual,1.4,Hatchback,4,-3801.58
+Mercedes,E Class,2005,78024,Diesel,Manual,1.4,SUV,4,13045.81
+Toyota,RAV4,2019,3464,Petrol,Manual,2.8,Coupe,5,40798.06
+Ford,Focus,2008,86251,Petrol,Manual,3.0,Coupe,5,10402.4
+Honda,Civic,2014,64827,Petrol,Automatic,1.8,SUV,4,20859.18
+Toyota,Camry,2017,161331,Hybrid,Manual,3.0,Sedan,4,11276.31
+Nissan,Qashqai,2016,165788,Electric,Automatic,2.0,SUV,5,8621.88
+Toyota,Prius,2010,22046,Petrol,Manual,1.4,Sedan,4,18033.63
+Toyota,RAV4,2011,174878,Petrol,Automatic,2.0,SUV,2,500.25
+Nissan,Altima,2013,17367,Petrol,Manual,3.0,SUV,5,24441.53
+Honda,Fit,2003,137097,Diesel,Automatic,1.6,SUV,5,530.06
+Volkswagen,Golf,2018,86863,Hybrid,Manual,3.0,Hatchback,4,18946.38
+Toyota,Corolla,2005,67673,Diesel,Automatic,2.4,Sedan,4,16756.37
+Honda,CR-V,2013,107334,Petrol,Automatic,1.8,SUV,4,14529.2
+Toyota,Corolla,2017,69659,Petrol,Manual,2.4,Sedan,4,21587.93
+Audi,Q7,2004,175062,Petrol,Manual,1.8,Hatchback,5,-13653.43
+Mercedes,GLE,2024,212754,Hybrid,Manual,1.4,Hatchback,5,7173.41
+BMW,X5,2011,179844,Diesel,Automatic,3.0,Sedan,4,2260.83
+Honda,Accord,2003,97748,Diesel,Manual,1.8,Hatchback,4,987.4
+Toyota,Corolla,2017,111716,Petrol,Manual,2.0,Sedan,4,4082.23
+Mercedes,GLC,2015,99473,Electric,Manual,2.8,Hatchback,4,21364.2
+Honda,CR-V,2017,174991,Petrol,Manual,1.4,SUV,4,4406.53
+Mercedes,GLE,2019,122408,Hybrid,Automatic,2.8,SUV,2,30247.53
+Audi,Q5,2013,104051,Hybrid,Automatic,1.8,Hatchback,5,17138.61
+Volkswagen,Golf,2021,91271,Diesel,Automatic,2.0,Coupe,4,20863.24
+BMW,3 Series,2011,83759,Hybrid,Automatic,2.0,Hatchback,5,17753.77
+Toyota,RAV4,2014,122482,Petrol,Automatic,2.8,SUV,4,15093.74
+Ford,Focus,2006,152200,Diesel,Manual,1.6,Hatchback,5,-8995.62
+Volkswagen,Polo,2016,96249,Petrol,Automatic,1.4,SUV,7,21324.45
+Mercedes,C Class,2008,177852,Diesel,Manual,1.8,Hatchback,4,-1904.6
+Mercedes,GLC,2018,182223,Petrol,Manual,1.4,Hatchback,4,4087.77
+BMW,X3,2020,95539,Petrol,Automatic,1.6,Sedan,5,19059.77
+Honda,Accord,2021,200173,Petrol,Manual,2.4,Sedan,2,-1685.38
+Nissan,Altima,2023,39723,Petrol,Manual,2.8,Sedan,4,31316.23
+Volkswagen,Polo,2005,205200,Diesel,Manual,2.4,Sedan,4,-15328.91
+Nissan,Altima,2006,66113,Diesel,Manual,1.8,SUV,5,10945.65
+Volkswagen,Tiguan,2023,125016,Petrol,Automatic,2.8,Sedan,2,18943.23
+Ford,Explorer,2011,63821,Electric,Manual,1.8,SUV,4,25759.65
+Ford,Mustang,2003,98388,Electric,Manual,1.6,Sedan,4,4554.06
+Honda,Civic,2009,76133,Petrol,Manual,2.8,Sedan,5,16457.46
+Nissan,Qashqai,2021,155742,Petrol,Manual,2.0,Hatchback,4,6655.57
+Mercedes,C Class,2010,19699,Diesel,Manual,1.8,SUV,5,36424.11
+BMW,X5,2004,184754,Diesel,Manual,2.4,SUV,5,-4306.82
+Nissan,Juke,2018,199038,Petrol,Manual,2.8,Hatchback,4,-4089.01
+Mercedes,E Class,2007,124730,Diesel,Manual,1.6,Coupe,4,8899.72
+Nissan,Sentra,2010,121305,Petrol,Manual,1.4,SUV,5,4913.19
+Nissan,Altima,2003,154595,Petrol,Manual,2.0,Sedan,5,-7591.38
+Toyota,RAV4,2016,45398,Diesel,Automatic,1.4,Sedan,4,25328.54
+Ford,Focus,2012,165440,Diesel,Manual,2.4,Coupe,4,2926.26
+Audi,A4,2022,49670,Hybrid,Manual,2.0,Hatchback,2,31956.74
+Volkswagen,Tiguan,2010,149453,Petrol,Automatic,1.6,Hatchback,4,431.67
+Honda,CR-V,2007,68616,Petrol,Manual,2.4,Hatchback,4,13199.71
+Ford,Mustang,2006,164657,Petrol,Manual,1.8,Sedan,2,-8770.27
+Mercedes,GLC,2007,174450,Petrol,Automatic,1.8,SUV,4,3228.34
+Volkswagen,Tiguan,2012,47484,Petrol,Manual,1.6,Hatchback,5,17835.51
+Toyota,RAV4,2004,136600,Diesel,Automatic,2.4,Coupe,5,-148.81
+Mercedes,E Class,2011,110645,Diesel,Automatic,3.0,Sedan,5,21318.66
+Ford,Explorer,2021,66100,Diesel,Automatic,2.4,SUV,4,30463.63
+Honda,Fit,2019,130242,Petrol,Automatic,1.6,Sedan,4,6401.99
+Mercedes,GLE,2017,218400,Petrol,Manual,2.8,Coupe,4,5006.67
+BMW,X3,2022,2540,Diesel,Automatic,1.4,Sedan,5,39246.58
+Audi,Q7,2020,210599,Petrol,Manual,1.8,Hatchback,4,-2077.16
+Ford,Focus,2017,188599,Hybrid,Manual,1.4,Sedan,4,-2520.58
+Volkswagen,Polo,2021,117403,Petrol,Manual,2.8,Hatchback,7,12729.1
+Toyota,Prius,2005,134985,Diesel,Manual,1.4,Hatchback,5,-4033.13
+Volkswagen,Passat,2021,82483,Hybrid,Manual,2.0,Sedan,4,23066.04
+Toyota,Prius,2009,30151,Diesel,Manual,1.6,Hatchback,5,16148.24
+Audi,A4,2019,126581,Diesel,Manual,1.6,Coupe,4,19332.94
+Ford,Mustang,2023,179965,Diesel,Manual,2.4,Coupe,2,4561.0
+BMW,X3,2013,52381,Petrol,Automatic,2.8,Sedan,2,35292.94
+Toyota,Corolla,2004,158318,Diesel,Manual,1.4,Hatchback,4,-9947.57
+Audi,A4,2011,165075,Hybrid,Automatic,1.6,SUV,5,4938.36
+Honda,Fit,2011,167309,Electric,Automatic,1.8,SUV,4,3034.49
+Audi,A4,2023,76120,Petrol,Automatic,3.0,SUV,2,39270.66
+Audi,Q7,2023,87465,Petrol,Manual,1.4,Hatchback,7,22247.01
+Volkswagen,Golf,2015,92734,Hybrid,Automatic,1.6,Sedan,4,12443.84
+Audi,Q5,2023,188216,Diesel,Automatic,1.8,SUV,4,16753.0
+Ford,Explorer,2012,198298,Petrol,Automatic,1.8,Sedan,4,-10123.48
+Audi,Q7,2012,92258,Petrol,Automatic,1.4,Sedan,4,17684.5
+Volkswagen,Golf,2021,213455,Petrol,Manual,2.0,Sedan,4,-1228.09
+Ford,Explorer,2017,126370,Diesel,Manual,2.4,Sedan,4,10731.68
+Toyota,Camry,2014,85942,Petrol,Automatic,1.6,Hatchback,5,21497.34
+Nissan,Sentra,2013,2140,Petrol,Manual,2.4,SUV,4,24595.62
+Honda,Accord,2018,135214,Petrol,Automatic,1.4,Sedan,4,5644.04
+Mercedes,GLC,2019,142582,Electric,Manual,2.8,Hatchback,2,20916.2
+Honda,CR-V,2013,213107,Petrol,Manual,1.6,Coupe,5,-2823.5
+Honda,Accord,2003,158562,Petrol,Manual,1.6,Coupe,4,-3687.55
+Volkswagen,Golf,2005,8468,Diesel,Manual,1.6,Hatchback,4,21999.57
+Honda,Fit,2006,125629,Petrol,Automatic,3.0,Coupe,7,3845.58
+Audi,A3,2013,163925,Electric,Manual,2.0,SUV,4,9625.45
+Audi,A3,2016,110249,Hybrid,Automatic,2.4,Coupe,4,21603.79
+Toyota,Prius,2020,95598,Petrol,Manual,1.6,Coupe,4,15185.39
+Honda,Accord,2008,178566,Petrol,Automatic,1.4,Sedan,4,-3765.23
+Volkswagen,Tiguan,2020,135279,Petrol,Manual,1.4,Coupe,7,8769.73
+Mercedes,GLE,2017,150539,Petrol,Manual,2.0,Hatchback,4,10146.19
+Toyota,Corolla,2004,103174,Petrol,Manual,1.8,Hatchback,4,2206.72
+Nissan,Sentra,2010,62620,Petrol,Manual,2.8,Coupe,4,11405.11
+Ford,Mustang,2009,115161,Petrol,Automatic,2.8,SUV,4,9439.49
+Toyota,RAV4,2022,211077,Diesel,Automatic,1.8,SUV,4,996.15
+Nissan,Juke,2023,133382,Petrol,Manual,2.0,Hatchback,5,9749.11
+Toyota,Camry,2021,156184,Petrol,Manual,1.8,Hatchback,2,3210.33
+Mercedes,GLC,2014,29060,Diesel,Manual,2.4,Coupe,5,33627.66
+Nissan,Qashqai,2013,217370,Petrol,Manual,2.4,Coupe,5,-8704.74
+Mercedes,E Class,2009,55345,Petrol,Manual,2.4,Hatchback,4,22345.78
+Mercedes,GLE,2020,213734,Petrol,Manual,1.4,Coupe,5,2324.45
+BMW,X3,2004,99175,Petrol,Manual,1.8,Sedan,5,7834.69
+Honda,Accord,2008,202322,Petrol,Automatic,3.0,Coupe,4,-8997.53
+Mercedes,C Class,2005,196415,Hybrid,Manual,1.8,Sedan,4,-2473.63
+Nissan,Qashqai,2013,166670,Hybrid,Manual,1.6,SUV,2,539.56
+Toyota,Corolla,2009,201776,Petrol,Manual,1.6,Sedan,4,-14667.4
+Nissan,Sentra,2007,134855,Petrol,Manual,1.4,SUV,5,-4517.13
+BMW,3 Series,2011,187032,Diesel,Manual,2.8,SUV,4,3761.77
+Mercedes,GLC,2021,39533,Diesel,Manual,1.4,Sedan,4,41070.11
+Honda,Accord,2015,17321,Petrol,Manual,2.4,Hatchback,4,26179.62
+Mercedes,GLC,2021,120450,Petrol,Automatic,1.8,Hatchback,4,17656.91
+Honda,Fit,2023,178546,Petrol,Automatic,1.4,Sedan,5,8101.94
+Ford,Explorer,2022,168852,Diesel,Automatic,3.0,Hatchback,5,8596.47
+Audi,Q7,2010,117081,Petrol,Automatic,2.8,Sedan,5,14633.45
+Toyota,Corolla,2022,115546,Petrol,Manual,2.8,Sedan,2,15363.61
+BMW,5 Series,2023,134946,Petrol,Manual,3.0,Sedan,4,24808.19
+Mercedes,C Class,2024,191276,Petrol,Manual,3.0,SUV,5,14579.89
+Honda,Fit,2010,185516,Diesel,Automatic,2.4,Hatchback,4,280.27
+Ford,Mustang,2008,25904,Diesel,Automatic,2.0,SUV,5,20679.65
+Ford,Fiesta,2015,131871,Diesel,Manual,2.4,Hatchback,4,5125.92
+Audi,Q5,2023,85044,Petrol,Manual,2.0,SUV,4,33472.07
+Nissan,Juke,2022,176271,Petrol,Manual,1.6,Hatchback,4,1209.38
+Volkswagen,Passat,2015,112300,Hybrid,Manual,1.8,Coupe,5,20754.69
+Honda,Accord,2006,218112,Diesel,Automatic,2.0,SUV,4,-11921.41
+Toyota,Corolla,2012,96246,Petrol,Manual,1.4,Sedan,5,8998.26
+Toyota,Camry,2018,150046,Petrol,Manual,2.8,Sedan,4,13988.2
+Mercedes,E Class,2015,25671,Hybrid,Manual,3.0,SUV,4,36634.67
+Honda,Fit,2010,205254,Hybrid,Manual,1.8,SUV,5,-11486.52
+Honda,Fit,2010,35469,Hybrid,Manual,2.0,Sedan,4,19369.95
+Volkswagen,Polo,2004,84485,Diesel,Automatic,2.8,Coupe,4,14695.49
+Volkswagen,Golf,2009,184600,Petrol,Manual,2.0,Coupe,7,-12579.52
+Volkswagen,Polo,2017,212897,Petrol,Manual,2.4,Sedan,5,-4410.9
+Ford,Fiesta,2008,107595,Petrol,Manual,2.0,Sedan,4,3818.36
+Mercedes,E Class,2024,107669,Diesel,Manual,1.6,Sedan,5,32765.63
+Mercedes,GLE,2004,12621,Diesel,Manual,2.8,SUV,4,34973.77
+Honda,Fit,2015,215394,Petrol,Manual,1.6,Coupe,4,-7705.96
+Mercedes,C Class,2013,5595,Hybrid,Manual,1.6,SUV,4,43442.13
+Mercedes,E Class,2021,7686,Petrol,Manual,2.4,Sedan,4,43741.01
+BMW,X5,2022,105217,Petrol,Automatic,2.4,SUV,4,27088.72
+Volkswagen,Tiguan,2014,2792,Petrol,Automatic,3.0,Sedan,4,29134.7
+Audi,A4,2016,37834,Hybrid,Automatic,2.4,SUV,5,36667.91
+Mercedes,GLC,2018,138842,Hybrid,Manual,1.4,SUV,4,18880.2
+Audi,Q7,2014,155717,Diesel,Automatic,2.8,Hatchback,4,11531.0
+Volkswagen,Golf,2007,67001,Electric,Automatic,1.8,SUV,5,13507.19
+Mercedes,GLC,2012,175380,Hybrid,Manual,1.4,Coupe,7,5929.01
+Ford,Mustang,2008,134481,Hybrid,Manual,2.4,Sedan,4,2084.88
+Volkswagen,Polo,2013,51768,Hybrid,Manual,1.6,Hatchback,7,21333.88
+Audi,A4,2016,157312,Petrol,Automatic,1.8,Sedan,5,14089.6
+Nissan,Altima,2007,131094,Hybrid,Manual,2.0,Sedan,4,1597.17
+Honda,CR-V,2008,179040,Diesel,Manual,1.4,Coupe,4,-10337.8
+BMW,X5,2021,35668,Diesel,Automatic,2.8,Hatchback,4,33561.91
+Nissan,Sentra,2011,52326,Petrol,Manual,2.0,Sedan,5,17679.76
+Mercedes,GLE,2007,68181,Diesel,Automatic,3.0,SUV,4,24546.34
+Nissan,Qashqai,2018,76428,Electric,Automatic,2.0,Hatchback,4,27416.84
+Toyota,Corolla,2018,195757,Petrol,Automatic,2.4,Coupe,5,7335.48
+Toyota,RAV4,2021,161694,Electric,Automatic,2.8,Hatchback,4,10954.04
+Volkswagen,Golf,2019,120613,Petrol,Manual,1.6,Sedan,4,11262.12
+Ford,Fiesta,2024,119818,Petrol,Manual,3.0,SUV,5,24469.15
+Mercedes,C Class,2015,195123,Petrol,Automatic,1.6,Sedan,7,6738.79
+BMW,5 Series,2009,99401,Hybrid,Automatic,3.0,Sedan,5,13899.41
+BMW,X3,2021,51104,Diesel,Manual,2.4,SUV,4,34069.59
+Nissan,Sentra,2008,31844,Petrol,Manual,2.0,Hatchback,4,11171.5
+Toyota,Prius,2009,73945,Diesel,Manual,1.6,Sedan,4,13365.01
+Volkswagen,Golf,2021,144417,Petrol,Manual,2.0,Hatchback,4,8527.59
+Nissan,Juke,2022,104667,Petrol,Manual,2.0,Hatchback,4,6126.69
+Audi,A4,2010,93948,Hybrid,Automatic,3.0,Hatchback,7,20426.7
+BMW,X5,2019,106657,Diesel,Automatic,2.8,Sedan,5,28564.04
+Honda,Fit,2023,214522,Hybrid,Automatic,2.0,SUV,4,7059.56
+Audi,Q5,2020,219487,Diesel,Manual,1.8,Sedan,4,960.39
+BMW,3 Series,2003,37161,Electric,Manual,1.8,Sedan,4,21543.04
+Honda,Accord,2017,26949,Petrol,Manual,1.8,Sedan,4,22260.57
+Ford,Focus,2006,55259,Petrol,Manual,1.4,Sedan,5,8098.8
+Nissan,Sentra,2021,187728,Petrol,Manual,1.4,Sedan,4,-1724.34
+Ford,Focus,2004,102174,Diesel,Manual,2.8,Sedan,5,5877.49
+Honda,CR-V,2024,190282,Diesel,Manual,1.6,Coupe,4,7778.04
+Audi,A4,2006,142991,Diesel,Manual,1.8,Hatchback,4,936.38
+Honda,Civic,2012,122597,Petrol,Manual,2.4,Sedan,7,9836.25
+Nissan,Altima,2008,63370,Petrol,Manual,2.4,Coupe,4,12393.64
+Volkswagen,Polo,2020,77000,Diesel,Manual,1.8,Sedan,4,16019.12
+Nissan,Qashqai,2011,34202,Electric,Manual,2.8,SUV,4,31270.21
+Nissan,Qashqai,2019,115191,Petrol,Manual,1.6,Hatchback,4,9370.03
+Honda,Civic,2004,63121,Petrol,Manual,2.0,SUV,4,12428.4
+Honda,Accord,2012,65757,Petrol,Manual,1.4,Sedan,2,8517.5
+Ford,Explorer,2023,10621,Petrol,Automatic,2.0,SUV,4,44018.77
+BMW,X5,2023,176205,Petrol,Manual,1.4,SUV,4,13556.71
+Nissan,Altima,2007,206759,Petrol,Automatic,3.0,Hatchback,4,-12638.21
+Audi,A3,2011,110624,Diesel,Manual,2.4,SUV,5,13794.23
+Audi,A4,2012,118855,Petrol,Automatic,1.6,SUV,5,17852.99
+Nissan,Qashqai,2015,203833,Petrol,Automatic,2.4,Sedan,4,-8315.6
+Audi,A3,2014,113503,Petrol,Manual,1.8,SUV,4,22405.83
+BMW,X3,2005,137746,Hybrid,Automatic,2.0,Sedan,4,4943.46
+BMW,X5,2019,95324,Petrol,Manual,1.6,Coupe,4,27347.3
+Mercedes,GLE,2007,114121,Petrol,Automatic,2.0,Hatchback,4,9867.9
+Toyota,RAV4,2009,115766,Petrol,Manual,1.4,SUV,5,9820.51
+Audi,A4,2021,157013,Diesel,Manual,1.6,Hatchback,4,8686.08
+Audi,Q7,2018,133712,Hybrid,Automatic,2.4,Sedan,4,20092.12
+Audi,A3,2011,111857,Petrol,Automatic,2.0,Sedan,5,15740.94
+Mercedes,E Class,2023,18533,Petrol,Manual,1.8,SUV,5,45182.71
+Volkswagen,Golf,2011,199182,Petrol,Automatic,1.4,SUV,4,-3730.32
+Nissan,Altima,2015,195644,Diesel,Manual,1.8,Hatchback,4,-8275.83
+Mercedes,C Class,2008,42209,Electric,Manual,3.0,Coupe,7,34573.77
+BMW,3 Series,2007,65941,Petrol,Automatic,2.4,SUV,4,26125.46
+Toyota,Corolla,2013,214190,Petrol,Manual,1.4,SUV,5,-11611.02
+Volkswagen,Passat,2015,71991,Hybrid,Manual,3.0,Hatchback,5,23373.75
+Nissan,Altima,2020,179057,Diesel,Automatic,1.8,Sedan,4,3468.43
+Audi,A3,2011,173293,Petrol,Manual,2.4,Sedan,4,1366.06
+Volkswagen,Polo,2022,189639,Petrol,Manual,1.4,Coupe,4,1235.54
+Volkswagen,Golf,2016,5488,Petrol,Manual,1.8,Hatchback,4,24589.65
+Volkswagen,Golf,2004,107273,Hybrid,Automatic,2.8,Coupe,4,8856.64
+Mercedes,C Class,2019,125281,Diesel,Manual,1.8,Sedan,5,19713.2
+Toyota,Corolla,2015,184509,Diesel,Manual,1.6,Sedan,5,-2940.34
+Toyota,Prius,2011,50933,Hybrid,Automatic,1.4,SUV,7,29564.82
+Honda,Fit,2013,68876,Petrol,Manual,3.0,Coupe,7,23734.18
+BMW,X5,2009,41218,Petrol,Manual,2.8,Sedan,5,25508.7
+Audi,Q5,2016,168104,Petrol,Automatic,1.4,Sedan,4,3099.21
+BMW,3 Series,2015,219754,Hybrid,Automatic,3.0,Sedan,4,1507.41
+Toyota,RAV4,2012,32618,Diesel,Manual,2.8,Hatchback,4,30744.96
+Honda,Civic,2009,52819,Petrol,Automatic,1.8,Hatchback,4,11960.95
+Nissan,Juke,2011,68937,Petrol,Automatic,2.4,Hatchback,4,15255.69
+Nissan,Sentra,2013,195808,Diesel,Manual,1.6,Sedan,4,-6990.4
+BMW,X3,2013,99169,Diesel,Automatic,1.6,Hatchback,4,16153.34
+Volkswagen,Passat,2009,63461,Diesel,Automatic,2.8,SUV,4,18169.97
+Audi,Q5,2015,72265,Petrol,Manual,1.6,Sedan,5,17780.63
+Nissan,Sentra,2007,132390,Hybrid,Manual,1.8,Sedan,4,-1579.02
+Nissan,Juke,2014,86369,Hybrid,Automatic,1.8,SUV,4,17683.2
+Audi,Q7,2005,32609,Diesel,Automatic,1.6,Sedan,4,26679.09
+BMW,X5,2013,180782,Diesel,Manual,2.8,Coupe,4,6430.04
+Audi,A4,2020,94046,Hybrid,Automatic,2.4,SUV,4,30095.56
+Ford,Fiesta,2020,57955,Electric,Automatic,3.0,SUV,4,36410.37
+Ford,Mustang,2018,160798,Diesel,Automatic,2.0,Hatchback,4,6893.82
+Mercedes,E Class,2019,164471,Petrol,Automatic,1.6,Hatchback,5,10092.44
+Mercedes,C Class,2004,35797,Petrol,Manual,1.6,Sedan,4,22142.88
+Mercedes,E Class,2010,18069,Hybrid,Manual,1.8,Hatchback,7,27479.91
+BMW,3 Series,2017,11900,Diesel,Manual,3.0,Sedan,5,43206.17
+BMW,3 Series,2020,168931,Petrol,Manual,1.6,SUV,4,10463.77
+Toyota,Camry,2015,138411,Petrol,Manual,2.4,Hatchback,4,4932.38
+Mercedes,GLE,2021,174661,Hybrid,Automatic,1.4,SUV,4,15443.37
+Mercedes,GLE,2009,138556,Hybrid,Automatic,3.0,SUV,5,14430.8
+Nissan,Sentra,2006,89570,Electric,Manual,2.4,Sedan,5,6144.05
+Mercedes,E Class,2004,130523,Petrol,Automatic,2.0,SUV,5,6364.97
+BMW,3 Series,2015,159500,Hybrid,Manual,1.8,Sedan,5,11070.55
+Toyota,RAV4,2017,88948,Hybrid,Manual,1.8,Coupe,4,17213.27
+Honda,Civic,2009,201500,Petrol,Manual,1.6,SUV,5,-15525.03
+Ford,Explorer,2020,198114,Petrol,Manual,2.4,Coupe,4,-3269.53
+BMW,X3,2019,176555,Electric,Manual,3.0,SUV,4,17188.63
+Ford,Mustang,2010,218314,Petrol,Automatic,1.6,Hatchback,4,-16902.12
+BMW,5 Series,2008,87117,Diesel,Manual,2.8,Sedan,5,16806.48
+Volkswagen,Polo,2019,26875,Diesel,Manual,2.0,Sedan,2,32266.84
+Honda,CR-V,2017,107558,Diesel,Manual,2.8,Sedan,4,19937.17
+Ford,Mustang,2006,164603,Petrol,Manual,2.8,Sedan,4,-1111.06
+Honda,Fit,2008,171899,Diesel,Automatic,1.4,Coupe,7,-8341.52
+Ford,Explorer,2013,86697,Petrol,Automatic,1.4,Hatchback,4,7255.71
+Audi,A3,2014,65785,Hybrid,Manual,3.0,Hatchback,4,29293.85
+Toyota,RAV4,2006,99113,Petrol,Manual,1.6,SUV,4,4006.76
+Ford,Explorer,2023,177246,Diesel,Manual,2.4,SUV,4,11650.24
+Toyota,Corolla,2011,15210,Hybrid,Automatic,2.8,Hatchback,5,31624.96
+Nissan,Sentra,2011,73519,Petrol,Manual,2.0,Hatchback,7,16120.03
+Audi,Q7,2004,52113,Petrol,Manual,1.4,SUV,5,19556.35
+Honda,Civic,2022,177705,Hybrid,Manual,1.4,Hatchback,5,7908.35
+Honda,Accord,2008,104385,Petrol,Manual,2.4,Sedan,4,4092.71
+Toyota,Prius,2024,20922,Petrol,Manual,3.0,Coupe,4,38622.17
+BMW,X5,2013,59069,Diesel,Manual,1.8,Sedan,4,22590.77
+Volkswagen,Polo,2022,11678,Electric,Automatic,2.0,SUV,5,39579.11
+Mercedes,C Class,2006,105671,Diesel,Manual,3.0,Coupe,4,20988.88
+Nissan,Sentra,2006,219493,Petrol,Manual,2.8,Sedan,5,-14323.5
+Ford,Explorer,2020,125656,Electric,Manual,2.0,Sedan,4,14577.83
+Ford,Mustang,2021,191541,Diesel,Manual,2.4,SUV,4,8697.32
+BMW,3 Series,2014,163885,Petrol,Automatic,3.0,SUV,4,10583.52
+Honda,Accord,2003,194460,Petrol,Automatic,2.8,Coupe,5,-15584.83
+Nissan,Sentra,2023,69801,Petrol,Manual,1.8,Hatchback,5,24759.4
+Honda,CR-V,2011,209379,Petrol,Automatic,2.4,SUV,4,-9679.61
+BMW,5 Series,2023,54024,Diesel,Automatic,1.8,Coupe,5,37249.2
+Mercedes,GLC,2022,97552,Petrol,Automatic,3.0,Hatchback,5,30800.23
