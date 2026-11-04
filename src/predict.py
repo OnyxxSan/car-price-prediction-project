@@ -13,18 +13,18 @@ def load_model():
 
 
 def build_feature_dict(sample: dict) -> dict:
-    """Convert a user input dictionary into a DataFrame row for the trained model."""
+    """Convert user input into a DataFrame-compatible feature dictionary."""
     current_year = pd.Timestamp.today().year
 
     row = {
-        'brand': sample.get('brand', '').strip(),
-        'model': sample.get('model', '').strip(),
+        'brand': str(sample.get('brand', '')).strip(),
+        'model': str(sample.get('model', '')).strip(),
         'model_year': int(sample.get('model_year', 0)),
         'milage': float(sample.get('milage', 0)),
-        'fuel_type': sample.get('fuel_type', '').strip(),
-        'transmission': sample.get('transmission', '').strip(),
-        'accident': sample.get('accident', '').strip(),
-        'clean_title': sample.get('clean_title', '').strip(),
+        'fuel_type': str(sample.get('fuel_type', '')).strip(),
+        'transmission': str(sample.get('transmission', '')).strip(),
+        'accident': str(sample.get('accident', '')).strip(),
+        'clean_title': str(sample.get('clean_title', '')).strip(),
         'car_age': max(0, current_year - int(sample.get('model_year', 0))),
     }
 
