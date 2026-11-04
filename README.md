@@ -1,16 +1,22 @@
 # Used Car Price Prediction
 
-A portfolio-ready machine learning project that predicts used car prices using attributes such as brand, model, year, mileage, fuel type, transmission, accident history, and title status.
+A portfolio-ready machine learning project that predicts used car prices using vehicle attributes such as brand, model, year, mileage, fuel type, transmission, accident history, and title status.
 
 ## Overview
 
-This project follows a complete data science workflow for a real-world pricing problem: estimating the fair market value of a used car. The dataset includes listings with vehicle features and a target price, and the model learns from those patterns to estimate price for new inputs.
+This project applies a complete data science workflow to a real-world business problem: estimating the fair market value of a used car. Buyers and sellers often struggle with inconsistent pricing across listings, so this project builds a practical pricing estimator based on historical data.
 
-The app is built with Python and Streamlit so users can enter car details and receive an estimated price in seconds.
+The app is built with Python and Streamlit, allowing users to enter car details and receive an estimated market price in seconds.
 
-## Problem and why it matters
+## Problem and Why It Matters
 
-Used car prices vary substantially based on age, mileage, condition, fuel type, transmission, and accident history. Buyers and sellers often need a consistent way to estimate fair value. This project provides a simple, explainable prediction model that helps with that task.
+Used car prices are influenced by a mix of factors, including age, mileage, condition, fuel efficiency, transmission type, and accident history. These details vary from listing to listing, which makes pricing difficult without a consistent model.
+
+This project helps solve that challenge by building a predictive model that estimates car value based on real listing data. It is useful for:
+
+- buyers who want a better sense of fair pricing
+- sellers who want a benchmark for listing price
+- portfolio projects that show practical machine learning skills
 
 ## Dataset
 
@@ -30,27 +36,80 @@ The project uses `used_cars.csv`, which contains used-car listing data and the t
 
 ### Target variable
 
-- price: used-car selling price in USD
+- price: the used car selling price in USD
 
-## Workflow
+The dataset is cleaned and prepared before training so that missing values are handled and the model can learn from consistent inputs.
 
-1. Load the raw dataset
-2. Clean and standardize fields
-3. Generate derived features like `car_age`
-4. Split the data into train/test sets
-5. Compare multiple regression models
-6. Select the final model and save it
-7. Use the model in a Streamlit app for interactive prediction
+## Machine Learning Workflow
 
-## Final model
+The project follows a standard end-to-end workflow:
 
-The project demonstrates several regression models, and the production model used for prediction is a `LinearRegression` pipeline with preprocessing for numeric and categorical columns.
+1. Data loading and inspection
+   - load the raw dataset
+   - confirm key columns and file structure
 
-## Metrics
+2. Data cleaning
+   - standardize column names
+   - convert numeric values to the correct format
+   - remove invalid rows and missing values
+   - create derived features such as vehicle age
 
-The project reports MAE, RMSE, and R² on a held-out test set. It also includes a baseline comparison using the median price as a simple benchmark.
+3. Feature preparation
+   - keep the most relevant attributes for price prediction
+   - convert categorical features such as brand and fuel type into a usable format for machine learning
 
-## Project structure
+4. Train-test split
+   - split the data into training and testing sets with a fixed random seed
+   - evaluate how well the model generalizes to unseen data
+
+5. Model comparison and selection
+   - train and compare multiple regression models
+   - evaluate each model using MAE, RMSE, and R²
+   - choose the best-performing model for production use
+
+6. Model saving and prediction
+   - save the trained model for future predictions
+   - deploy it in a Streamlit app for interactive price estimation
+
+## Models Used
+
+The project benchmarks several regression models, including:
+
+- Linear Regression
+- Ridge Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+The final model used in production is a `LinearRegression` pipeline with preprocessing for numeric and categorical features.
+
+## Results
+
+The model comparison results on this dataset are:
+
+| Model | MAE | RMSE | R² |
+| --- | ---: | ---: | ---: |
+| Linear Regression | 2479.42 | 3138.45 | 0.9435 |
+| Random Forest Regressor | 3360.20 | 4134.82 | 0.9020 |
+| Gradient Boosting Regressor | 2823.97 | 3459.01 | 0.9314 |
+
+The best-performing model on this dataset was Linear Regression, with an R² of 0.9435. This means the model explains approximately 94.35% of the variation in used car prices based on the available feature set.
+
+## Tools and Libraries
+
+This project uses:
+
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- matplotlib
+- seaborn
+- Streamlit
+- joblib
+- Jupyter Notebook
+- pytest
+
+## Project Structure
 
 ```text
 car-price-prediction-project/
@@ -62,6 +121,8 @@ car-price-prediction-project/
 │   ├── model_comparison.py
 │   ├── predict.py
 │   └── train_model.py
+├── tests/
+│   └── test_pipeline.py
 ├── models/
 ├── notebooks/
 ├── DS_Car_Price_Project.ipynb
@@ -71,28 +132,76 @@ car-price-prediction-project/
 └── .gitignore
 ```
 
-## Setup
+## Setup Instructions
+
+### 1. Install Python
+
+Download and install Python 3.10+ from the official Python website.
+
+### 2. Open the project in VS Code
+
+- open VS Code
+- select the project folder
+- open the integrated terminal
+
+### 3. Create a virtual environment
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
+```
+
+On Windows PowerShell:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+### 4. Install dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-## Train the model
+## Run Instructions
+
+### 1. Train the final model
 
 ```bash
 python src/train_model.py
 ```
 
-This script loads the dataset, cleans it, trains the final pipeline, evaluates it, and saves the model to `models/used_car_model.joblib`.
+This script loads the dataset, cleans it, trains the pipeline, evaluates it, and saves the model to `models/used_car_model.joblib`.
 
-## Run the app
+### 2. Launch the Streamlit app
 
 ```bash
 streamlit run app/streamlit_app.py
 ```
 
+The app opens a user-friendly interface where you can enter vehicle details and receive an estimated price.
+
+## Validation
+
+The project includes automated checks in `tests/test_pipeline.py` to confirm that:
+
+- the dataset loads correctly
+- missing or invalid price values are cleaned properly
+- the feature dict used for prediction is in the expected schema
+
+## Resume-Friendly Description
+
+Developed a machine learning project to predict used car prices using vehicle attributes such as mileage, age, fuel type, transmission, and accident history. Built a clean data preprocessing pipeline, compared multiple regression models, and packaged the final model into an interactive Streamlit app for user-friendly price estimation.
+
+## Interview-Friendly Description
+
+This project shows my end-to-end data science workflow: cleaning and preparing real-world automotive data, training multiple regression models, comparing their performance, and selecting the strongest approach for a business use case. I also created a Streamlit interface so the model can be used interactively by non-technical users.
+
+## Conclusion
+
+This project combines machine learning, practical data cleaning, and application development in a single portfolio-ready workflow. It is designed to be easy to understand for recruiters, internship reviewers, and hiring managers.
+
 ## Notes
 
-This project is designed as a clean, interview-friendly example of an end-to-end data science workflow: ingestion, preprocessing, modeling, evaluation, and deployment through a simple app.
+The original exploratory notebook, `DS_Car_Price_Project.ipynb`, is kept in the repository for reference, while the organized codebase makes the project easier to present and maintain.
