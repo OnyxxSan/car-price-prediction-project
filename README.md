@@ -196,11 +196,6 @@ streamlit run app/streamlit_app.py
 
 The app opens a user-friendly interface where you can enter vehicle details and receive an estimated price.
 
-## Streamlit App Screenshot
-
-Save the app screenshot as `app/screenshots/streamlit_app.png` in the repo and it will display here:
-
-![Streamlit app screenshot](app/screenshots/streamlit_app.png)
 
 ## Resume-Friendly Description
 
