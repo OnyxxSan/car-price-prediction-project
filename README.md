@@ -1,10 +1,10 @@
 # Used Car Price Prediction
 
-A portfolio-ready machine learning project that predicts used car prices using vehicle attributes such as brand, model, year, mileage, fuel type, transmission, and title status.
+A portfolio-ready machine learning project that predicts used car prices using vehicle attributes such as brand, model, year, mileage, fuel type, transmission, accident history, and title status.
 
 ## Overview
 
-This project applies a complete data science workflow to a real-world business problem: estimating the fair market value of a used car. Buyers and sellers often struggle with inconsistent pricing across listings, so this project creates a practical pricing estimator based on historical data.
+This project applies a complete data science workflow to a real-world business problem: estimating the fair market value of a used car. Buyers and sellers often struggle with inconsistent pricing across listings, so this project builds a practical pricing estimator based on historical data.
 
 The app is built with Python and Streamlit, allowing users to enter car details and receive an estimated market price in seconds.
 
@@ -20,23 +20,23 @@ This project helps solve that challenge by building a predictive model that esti
 
 ## Dataset
 
-The project uses a structured dataset (`used_cars.csv`) containing vehicle information and a target variable, `price`.
+The project uses `used_cars.csv`, which contains used-car listing data and the target variable `price`.
 
 ### Features used in the model
 
 - brand
 - model
-- model year
-- mileage
-- fuel type
+- model_year
+- milage
+- fuel_type
 - transmission
-- accident status
-- clean title
-- vehicle age
+- accident
+- clean_title
+- car_age
 
 ### Target variable
 
-- price: the used car selling price in dollars
+- price: the used car selling price in USD
 
 The dataset is cleaned and prepared before training so that missing values are handled and the model can learn from consistent inputs.
 
@@ -62,28 +62,25 @@ The project follows a standard end-to-end workflow:
    - split the data into training and testing sets with a fixed random seed
    - evaluate how well the model generalizes to unseen data
 
-5. Model comparison
+5. Model comparison and selection
    - train and compare multiple regression models
    - evaluate each model using MAE, RMSE, and R²
+   - choose the best-performing model for production use
 
-6. Model selection and saving
-   - choose the best-performing model
+6. Model saving and prediction
    - save the trained model for future predictions
-
-7. Prediction app
-   - build a Streamlit interface for interactive use
-   - allow users to enter vehicle details and get a price estimate
+   - deploy it in a Streamlit app for interactive price estimation
 
 ## Models Used
 
-The project benchmarks several regression models:
+The project benchmarks several regression models, including:
 
 - Linear Regression
 - Ridge Regression
 - Random Forest Regressor
 - Gradient Boosting Regressor
 
-The final model selection is based on performance on the test set.
+The final model used in production is a `LinearRegression` pipeline with preprocessing for numeric and categorical features.
 
 ## Results
 
@@ -110,6 +107,7 @@ This project uses:
 - Streamlit
 - joblib
 - Jupyter Notebook
+- pytest
 
 ## Project Structure
 
@@ -117,16 +115,16 @@ This project uses:
 car-price-prediction-project/
 ├── app/
 │   └── streamlit_app.py
-├── data/
-│   └── raw/
-├── models/
-├── notebooks/
 ├── src/
 │   ├── __init__.py
 │   ├── data_preprocessing.py
 │   ├── model_comparison.py
 │   ├── predict.py
 │   └── train_model.py
+├── tests/
+│   └── test_pipeline.py
+├── models/
+├── notebooks/
 ├── DS_Car_Price_Project.ipynb
 ├── README.md
 ├── requirements.txt
@@ -168,27 +166,15 @@ pip install -r requirements.txt
 
 ## Run Instructions
 
-### 1. Ensure the dataset is available
-
-The project expects the dataset file `used_cars.csv` in the project root or in the `data/raw` folder. The preprocessing script automatically looks for it.
-
-### 2. Compare models
-
-```bash
-python src/model_comparison.py
-```
-
-This script trains and evaluates multiple regression models and prints the MAE, RMSE, and R² values for each one.
-
-### 3. Train the final model
+### 1. Train the final model
 
 ```bash
 python src/train_model.py
 ```
 
-This script builds the selected model pipeline, evaluates it, and saves the trained model to the `models/` directory.
+This script loads the dataset, cleans it, trains the pipeline, evaluates it, and saves the model to `models/used_car_model.joblib`.
 
-### 4. Launch the Streamlit app
+### 2. Launch the Streamlit app
 
 ```bash
 streamlit run app/streamlit_app.py
@@ -196,6 +182,13 @@ streamlit run app/streamlit_app.py
 
 The app opens a user-friendly interface where you can enter vehicle details and receive an estimated price.
 
+## Validation
+
+The project includes automated checks in `tests/test_pipeline.py` to confirm that:
+
+- the dataset loads correctly
+- missing or invalid price values are cleaned properly
+- the feature dict used for prediction is in the expected schema
 
 ## Resume-Friendly Description
 
